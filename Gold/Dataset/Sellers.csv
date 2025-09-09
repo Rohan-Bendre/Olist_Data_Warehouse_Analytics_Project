@@ -1,0 +1,3096 @@
+sellers_id,seller_zip_code,seller_city,seller_state
+60,15840,Itajobi,SP
+44,9340,Maua,SP
+1,9080,Santo Andre,SP
+2,29156,Cariacica,ES
+3,24754,Sao Goncalo,RJ
+4,14405,Franca,SP
+5,74565,Goiania,GO
+6,14940,Ibitinga,SP
+7,7070,Guarulhos,SP
+8,4164,Sao Paulo,SP
+9,30170,Belo Horizonte,MG
+10,3333,Sao Paulo,SP
+11,87025,Maringa,PR
+12,1212,Sao Paulo,SP
+13,9710,Sao Bernardo Do Campo,SP
+14,17580,Pompeia,SP
+15,80250,Curitiba,PR
+16,80740,Curitiba,PR
+17,35180,Timoteo,MG
+18,87015,Maringa,PR
+19,14940,Ibitinga,SP
+20,76400,Uruacu,GO
+21,15804,Catanduva,SP
+22,85603,Francisco Beltrao,PR
+84,87045,Maringa,PR
+23,8710,Mogi Das Cruzes,SP
+24,14079,Ribeirao Preto / Sao Paulo,SP
+25,86050,Londrina,PR
+26,80330,Curitiba,PR
+27,5676,Sao Paulo,SP
+28,3280,Sao Paulo,SP
+29,33940,Ribeirao Das Neves,MG
+30,20040,Rio De Janeiro,RJ
+31,14940,Ibitinga,SP
+32,13473,Americana,SP
+33,59077,Natal,RN
+34,32310,Contagem,MG
+35,9121,Santo Andre,SP
+36,80620,Curitiba,PR
+37,18611,Botucatu,SP
+38,15085,Sao Jose Do Rio Preto,SP
+39,14940,Ibitinga,SP
+40,89036,Blumenau,SC
+41,12231,Sao Jose Dos Campos,SP
+42,9443,Ribeirao Pires,SP
+43,3560,Sao Paulo,SP
+45,38401,Uberlandia,MG
+46,89288,Sao Bento Do Sul,SC
+47,18015,Sorocaba,SP
+48,88215,Bombinhas,SC
+49,9320,Maua,SP
+50,6016,Osasco,SP
+51,93900,Ivoti,RS
+52,14406,Franca,SP
+53,13150,Cosmopolis,SP
+54,28470,Santo Antonio De Padua,RJ
+55,1239,Sao Paulo,SP
+56,95910,Lajeado,RS
+57,8411,Sao Paulo,SP
+58,31710,Belo Horizonte,MG
+59,89136,Rodeio,SC
+61,26379,Queimados,RJ
+62,5104,Sao Paulo,SP
+63,88813,Criciuma,SC
+64,21635,Rio De Janeiro,RJ
+65,9020,Santo Andre,SP
+66,5372,Sao Paulo,SP
+67,74305,Goiania,GO
+68,3962,Sao Paulo,SP
+69,6465,Barueri,SP
+70,37135,Alfenas,MG
+71,5353,Sao Paulo - Sp,SP
+72,31910,Belo Horizonte,MG
+73,8752,Mogi Das Cruzes,SP
+74,98803,Santo Angelo,RS
+75,8150,Sao Paulo,SP
+76,95913,Lajeado,RS
+77,87140,Paincandu,PR
+78,4007,Sao Paulo - Sp,SP
+79,85863,Foz Do Iguacu,PR
+80,86010,Londrina,PR
+81,2310,Sao Paulo,SP
+82,65072,Sao Luis,MA
+83,31844,Belo Horizonte,MG
+85,91350,Porto Alegre,RS
+86,58030,Joao Pessoa,PB
+87,3916,Sao Paulo,SP
+88,7023,Guarulhos,SP
+89,3138,Sao Paulo,SP
+90,28990,Saquarema,RJ
+91,14096,Ribeirao Preto,SP
+92,18052,Sorocaba,SP
+93,30775,Belo Horizonte,MG
+94,2124,Sao Paulo,SP
+95,2925,Sao Paulo,SP
+96,4761,Sao Paulo,SP
+97,2117,Sao Paulo,SP
+98,14940,Ibitinga,SP
+99,4216,Sao Paulo,SP
+100,31140,Belo Horizonte,MG
+101,6097,Osasco,SP
+102,6036,Osasco,SP
+103,3612,Sao Paulo,SP
+104,33200,Vespasiano,MG
+105,18608,Botucatu,SP
+106,12020,Taubate,SP
+107,9416,Ribeirao Pires,SP
+108,6465,Barueri,SP
+109,8541,Ferraz De Vasconcelos,SP
+110,11990,Cananeia,SP
+111,6663,Itapevi,SP
+112,36504,Uba,MG
+113,85804,Cascavel,PR
+114,31110,Belo Horizonte,MG
+115,17512,Marilia,SP
+116,11075,Santos,SP
+117,92120,Canoas,RS
+118,2050,Sao Paulo,SP
+119,6236,Osasco,SP
+120,14095,Ribeirao Preto,SP
+121,6763,Taboao Da Serra,SP
+122,8180,Sao Paulo,SP
+123,3322,Sao Paulo,SP
+124,1022,Sao Paulo,SP
+125,9725,Sao Bernardo Do Campo,SP
+126,32260,Contagem,MG
+127,5524,Sao Paulo,SP
+128,13205,Jundiai,SP
+129,37135,Alfenas,MG
+130,4281,Sao Paulo,SP
+131,3345,Sao Paulo,SP
+132,20261,Rio De Janeiro,RJ
+133,13290,Louveira,SP
+134,81030,Curitiba,PR
+135,18080,Sorocaba,SP
+136,3431,Sao Paulo,SP
+137,11070,Santos,SP
+138,38400,Uberlandia,MG
+139,3168,Sao Paulo,SP
+140,7052,Guarulhos,SP
+141,5141,Sp,SP
+142,18131,Sao Roque,SP
+143,84530,Teixeira Soares,PR
+144,89255,Jaragua Do Sul,SC
+145,7412,Aruja,SP
+146,31210,Belo Horizonte,MG
+147,92420,Canoas,RS
+148,87025,Maringa,PR
+149,88301,Itajai,SP
+150,3077,Sao Paulo,SP
+151,18130,Sao Roque,SP
+152,4461,Sao Paulo,SP
+153,2515,Sao Paulo,SP
+154,1547,Sao Paulo,SP
+155,22745,Rio De Janeiro,RJ
+156,13270,Valinhos,SP
+157,84020,Ponta Grossa,PR
+158,37410,Tres Coracoes,MG
+159,80060,Curitiba,PR
+160,37410,Tres Coracoes,MG
+161,5632,Sao Paulo,SP
+162,14076,Ribeirao Preto,SP
+163,91150,Porto Alegre,RS
+164,38414,Uberlandia,MG
+165,74043,Goiania,GO
+166,11010,Santos,SP
+167,7031,Guarulhos,SP
+168,9721,Sao Bernardo Do Campo,SP
+169,32604,Betim,MG
+170,13660,Porto Ferreira,SP
+171,7901,Francisco Morato,SP
+172,6280,Sao Paulo,SP
+173,88316,Itajai,SC
+174,35700,Sete Lagoas,MG
+175,9111,Santo Andre,SP
+176,32240,Contagem,MG
+177,74110,Goiania,GO
+178,13473,Americana,SP
+179,6539,Santana De Parnaiba,SP
+180,80230,Curitiba,PR
+181,14403,Franca,SP
+182,14940,Ibitinga,SP
+183,19865,Pedrinhas Paulista,SP
+184,18681,Lencois Paulista,SP
+185,88037,Florianopolis,SC
+186,19906,Ourinhos,SP
+187,95110,Caxias Do Sul,RS
+188,19013,Presidente Prudente,SP
+189,14315,Batatais,SP
+190,15061,Sao Jose Do Rio Preto,SP
+191,13505,Rio Claro,SP
+192,13503,Rio Claro,SP
+193,3204,Sao Paulo,SP
+194,13090,Campinas,SP
+195,20921,Rio De Janeiro,RJ
+196,37540,Santa Rita Do Sapucai,MG
+197,17280,Pederneiras,SP
+198,3520,Sao Paulo,SP
+199,13087,Campinas,SP
+200,36500,Uba,MG
+201,12570,Aparecida,SP
+202,9850,Sao Bernardo Do Campo,SP
+203,15810,Catanduva,SP
+204,25530,Sao Joao De Meriti,RJ
+205,89900,Sao Miguel D'Oeste,SC
+206,2614,Sao Paulo,SP
+207,13920,Pedreira,SP
+208,14085,Ribeirao Preto,SP
+209,14075,Ribeirao Preto,SP
+210,7411,Sao Paulo,SP
+211,4133,Sao Paulo,SP
+212,23954,Angra Dos Reis,RJ
+213,85301,Laranjeiras Do Sul,SP
+214,87050,Maringa,PR
+215,12940,Atibaia,SP
+216,4607,Sao Paulo,SP
+217,95780,Montenegro,RS
+218,11709,Praia Grande,SP
+219,95705,Bento Goncalves,RS
+220,1201,Sao Paulo,SP
+221,19800,Assis,SP
+222,2523,Sao Paulo,SP
+223,3168,Sao Paulo,SP
+224,13272,Valinhos,SP
+225,95020,Caxias Do Sul,RS
+226,26051,Rio De Janeiro,RJ
+227,1230,Sao Paulo,SP
+228,2215,Sao Paulo,SP
+229,3064,Sao Paulo,SP
+230,84010,Ponta Grossa,PR
+231,6080,Osasco,SP
+232,74473,Goiania,GO
+233,13454,Santa Barbara D'Oeste,SP
+234,13920,Pedreira,SP
+235,11015,Santos,SP
+236,3567,Sao Paulo,SP
+237,85200,Pitanga,PR
+238,4087,Sao Paulo,SP
+239,42738,Lauro De Freitas,BA
+240,28630,Nova Friburgo,RJ
+241,1026,Sao Paulo,SP
+242,9131,Santo Andre,SP
+243,15015,Sao Jose Do Rio Preto,SP
+244,95240,Ipe,RS
+245,89248,Garuva,SC
+246,14940,Ibitinga,SP
+247,37580,Monte Siao,MG
+248,3211,Sao Paulo,SP
+249,87045,Maringa,PR
+250,29480,Muqui,ES
+251,4911,Sao Paulo,SP
+252,21862,Rio De Janeiro,RJ
+253,17047,Bauru,SP
+254,35400,Ouro Preto,MG
+255,36401,Conselheiro Lafaiete,MG
+256,3307,Sao Paulo,SP
+257,17400,Garca,SP
+258,12940,Atibaia,SP
+259,83409,Colombo,PR
+260,85980,Guaira,PR
+261,14020,Ribeirao Preto,SP
+262,87015,Maringa,PR
+263,9891,Sao Bernardo Do Campo,SP
+264,88780,Imbituba,SC
+265,14405,Franca,SP
+266,1303,Sao Paulo,SP
+267,12903,Sp,SP
+268,37165,Minas Gerais,MG
+269,9551,Sao Caetano Do Sul,SP
+270,17250,Bariri,SP
+271,11370,Sao Vicente,SP
+272,6501,Santana De Parnaiba,SP
+273,7025,Guarulhos,SP
+274,6766,Taboao Da Serra,SP
+275,75124,Anapolis,GO
+276,30710,Belo Horizonte,MG
+277,9411,Ribeirao Pires,SP
+278,13843,Mogi Guacu,SP
+279,7052,Guarulhos,SP
+280,32677,Betim,MG
+281,14085,Riberao Preto,SP
+282,3565,Sao Paulo,SP
+283,3908,Sao Paulo,SP
+284,9911,Sao Paulo,SP
+285,14940,Ibitinga,SP
+286,30882,Belo Horizonte,MG
+287,9370,Maua,SP
+288,89220,Joinville,SC
+289,89295,Rio Negrinho,SC
+290,3589,Sao Paulo,SP
+291,1319,Sao Paulo,SP
+292,13224,Varzea Paulista,SP
+293,14940,Ibitinga,SP
+294,73020,Brasilia,DF
+295,17511,Marilia,SP
+296,13275,Valinhos,SP
+297,7241,Guarulhos,SP
+298,1209,Sao Paulo,SP
+299,19806,Assis,SP
+300,37570,Ouro Fino,MG
+301,37590,Jacutinga,MG
+302,1403,Sao Paulo,SP
+303,14850,Pradopolis,SP
+304,85880,Itaipulandia,PR
+305,89114,Gaspar,SC
+306,13478,Americana,SP
+307,89224,Joinville,SC
+308,9694,Sao Bernardo Do Campo,SP
+309,89245,Araquari,SC
+310,2976,Sao Paulo,SP
+311,2532,Sao Paulo,SP
+312,2737,Sao Paulo,SP
+313,83450,Bocaiuva Do Sul,PR
+314,87050,Maringa,PR
+315,13418,Piracicaba,SP
+316,88730,Sao Ludgero,SC
+317,87015,Maringa,PR
+318,89160,Rio Do Sul,SC
+319,2350,Sao Paulo,SP
+320,3477,Sao Paulo,SP
+321,5468,Sao Paulo,SP
+322,16304,Penapolis,SP
+323,1257,Sao Paulo,SP
+324,4708,Sao Paulo,SP
+325,89228,Joinville,SC
+326,2972,Sao Paulo,SP
+327,13482,Limeira,SP
+328,13575,Sao Carlos,SP
+329,11030,Santos,SP
+330,87114,Sarandi,PR
+331,30668,Belo Horizonte,MG
+332,1420,Sao Paulo,SP
+333,36773,Cataguases,MG
+334,6506,Santana De Parnaiba,SP
+335,26020,Nova Iguacu,RJ
+336,82640,Curitiba,PR
+337,3363,Sp / Sp,SP
+338,83830,Fazenda Rio Grande,PR
+339,37480,Lambari,MG
+340,3951,Sao Paulo,SP
+341,88715,Jaguaruna,SC
+342,89203,Joinville,SC
+343,52020,Recife,PE
+344,14860,Barrinha,SP
+345,89082,Indaial,SC
+346,20031,Rio De Janeiro,RJ
+347,36576,Vicosa,MG
+348,5101,Sao Paulo,SP
+349,1035,Sao Paulo,SP
+350,86706,Arapongas,PR
+351,30421,Belo Horizonte,MG
+352,36500,Uba,MG
+353,4265,Sao Paulo,SP
+354,14940,Ibitinga,SP
+355,16200,Birigui,SP
+356,4710,Sao Paulo,SP
+357,16021,Sp,SP
+358,14940,Ibitinga,SP
+359,13911,Jaguariuna,SP
+360,13015,Campinas,SP
+361,15800,Catanduva,SP
+362,2929,Sao Paulo,SP
+363,2066,Sao Paulo,SP
+364,13251,Itatiba,SP
+365,78820,Jaciara,MT
+366,2066,Sao Paulo,SP
+367,2124,Sao Paulo,SP
+368,1311,Sao Paulo,SP
+369,15025,Sao Jose Do Rio Preto,SP
+370,1139,Sao Paulo,SP
+371,95800,Venancio Aires,RS
+372,82510,Curitiba,PR
+373,17602,Tupa,SP
+374,4106,Sao Paulo,SP
+375,9320,Maua,SP
+376,13480,Limeira,SP
+377,2279,Sao Paulo,SP
+378,25850,Paraiba Do Sul,RJ
+379,89540,Santa Cecilia,SC
+380,15025,Sao Jose Do Rio Preto,SP
+381,14790,Guaira,SP
+382,37564,Borda Da Mata,MG
+383,81930,Curitiba,PR
+384,13660,Porto Ferreira,SP
+385,85065,Guarapuava,PR
+386,80010,Curitiba,PR
+387,86707,Arapongas,PR
+388,13566,Sao Carlos,SP
+389,88790,Laguna,SP
+390,13312,Itu,SP
+391,9560,Sao Caetano Do Sul,SP
+392,86385,Andira-Pr,PR
+393,37540,Santa Rita Do Sapucai,MG
+394,2804,Sao Paulo,SP
+395,13456,Santa Barbara D'Oeste,SP
+396,83405,Colombo,PR
+397,8250,Sao Paulo,SP
+398,13321,Salto,SP
+399,35700,Sete Lagoas,MG
+400,4776,Sp,SP
+401,6038,Osasco,SP
+402,14070,Ribeirao Preto,SP
+403,1123,Sao Paulo,SP
+404,11900,Registro,SP
+405,60110,Fortaleza,CE
+406,8593,Itaquaquecetuba,SP
+407,38405,Uberlandia,MG
+408,4547,Sao Paulo,SP
+409,81520,Curitiba,PR
+410,86360,Bandeirantes,PR
+411,30190,Belo Horizonte,MG
+412,30310,Belo Horizonte,MG
+413,87043,Maringa,PR
+414,8452,Sao Paulo,SP
+415,16500,Cafelandia,SP
+416,13660,Porto Ferreira,SP
+417,95088,Caxias Do Sul,RS
+418,13806,Mogi Mirim,SP
+419,17300,Dois Corregos,SP
+420,13520,Sao Pedro,SP
+421,18110,Votorantim,SP
+422,2839,Sao Paulo,SP
+423,13360,Capivari,SP
+424,37975,Itau De Minas,MG
+425,24120,Niteroi,RJ
+426,13211,Jundiai,SP
+427,8832,Mogi Das Cruzes,SP
+428,15093,Sao Jose Do Rio Preto,SP
+429,71065,Brasilia,DF
+430,20950,Rio De Janeiro,RJ
+431,14078,Robeirao Preto,SP
+432,58385,Serra Redonda,PB
+433,6060,Osasco,SP
+434,13202,Jundiai,SP
+435,13090,Campinas,SP
+436,80620,Curitiba,PR
+437,4141,Sao Paulo,SP
+438,86804,Apucarana,PR
+439,87210,Cianorte,PR
+440,8550,Poa,SP
+441,9725,Sao Bernardo Do Campo,SP
+442,35680,Itauna,MG
+443,6716,Cotia,SP
+444,17350,Igaracu Do Tiete,SP
+445,11720,Praia Grande,SP
+446,5503,Sao Paulo,SP
+447,88352,Brusque,SC
+448,3303,Sao Paulo,SP
+449,9785,Sao Bernardo Do Campo,SP
+450,15155,Jaci,SP
+451,8430,Sao Paulo,SP
+452,7140,Guarulhos,SP
+453,15803,Catanduva,SP
+454,81070,Curitiba,PR
+455,13450,Santa Barbara D´Oeste,SP
+456,14470,Pedregulho,SP
+457,81530,Curitiba,PR
+458,86800,Apucarana,PR
+459,14401,Franca,SP
+460,14940,Ibitinga,SP
+461,2611,Sao Paulo,SP
+462,21070,Rio De Janeiro,RJ
+463,4696,Sao Paulo,SP
+464,9370,Maua,SP
+465,3813,Sao Paulo,SP
+466,6380,Carapicuiba,SP
+467,11704,Praia Grande,SP
+468,3632,Sao Paulo,SP
+469,3265,Sao Paulo,SP
+470,3106,Sao Paulo,SP
+471,31730,Belo Horizonte,MG
+472,88316,Itajai,SC
+473,13033,Campinas,SP
+474,4795,Sao Paulo,SP
+475,31573,Belo Horizonte,MG
+476,3644,Sao Paulo,SP
+477,95070,Caxias Do Sul,RS
+478,31570,Belo Horizonte,SP
+479,31950,Belo Horizonte,MG
+480,18480,Itaporanga,SP
+481,14079,Ribeirao Preto,SP
+482,5685,Sao Paulo,SP
+483,4250,Sao Paulo,SP
+484,15051,Sao Jose Do Rio Pret,SP
+485,72125,Brasilia,DF
+486,4270,Sao Paulo,SP
+487,80240,Curitiba,SP
+488,80710,Curitiba,PR
+489,63540,Varzea Alegre,CE
+490,97110,Santa Maria,RS
+491,36010,Juiz De Fora,MG
+492,88330,Balneario Camboriu,SC
+493,30494,Belo Horizonte,MG
+494,37540,Sao Paulo,SP
+495,13660,Porto Ferreira,SP
+496,72580,Brasilia,DF
+497,35570,Formiga,MG
+498,9175,Santo Andre,SP
+499,89259,Jaragua Do Sul,SC
+500,9560,Sao Caetano Do Sul,SP
+501,87015,Maringa,PR
+502,4142,Sao Paulo,SP
+503,30111,Belo Horizonte,MG
+504,22713,Rio De Janeiro,RJ
+505,91901,Porto Alegre,RS
+506,70856,Brasilia,DF
+507,2510,Sao Paulo,SP
+508,35500,Divinopolis,MG
+509,36015,Juiz De Fora,MG
+510,3572,Sao Paulo,SP
+511,4733,Sao Paulo,SP
+512,44900,Irece,BA
+513,4087,Sao Paulo,SP
+514,13310,Itu,SP
+515,31130,Belo Horizonte,MG
+516,4054,Sao Paulo,SP
+517,88704,Tubarao,SC
+518,86047,Londrina,PR
+519,28615,Nova Friburgo,RJ
+520,31160,Belo Horizonte,MG
+521,97050,Santa Maria,RS
+522,6420,Barueri,SP
+523,30421,Belo Horizonte,MG
+524,15290,Buritama,SP
+525,39801,Castro Pires,MG
+526,81830,Curitiba,PR
+527,29304,Cachoeiro De Itapemirim,ES
+528,8752,Mogi Das Cruzes,SP
+529,81070,Curitiba,PR
+530,34710,Sabara,MG
+531,14085,Ribeirao Preto,SP
+532,86040,Londrina,PR
+533,27972,Macae,RJ
+534,5879,Sao Paulo,SP
+535,14096,Ribeirao Preto,SP
+536,1039,Sao Paulo,SP
+537,89240,Sao Francisco Do Sul,SC
+538,76400,Uruacu,GO
+539,14940,Ibitinga,SP
+540,2992,Sao Paulo,SP
+541,6080,Osasco,SP
+542,15155,Jaci,SP
+543,12240,Sao Jose Dos Campos,SP
+544,80240,Curitiba,PR
+545,78552,Sinop,MT
+546,9070,Santo Andre,SP
+547,2265,Sao Paulo,SP
+548,3461,Sao Paulo,SP
+549,4850,Sao Paulo,SP
+550,82315,Curitiba,PR
+551,30620,Belo Horizonte,MG
+552,2820,Sao Paulo,SP
+553,2285,Sao Paulo,SP
+554,3731,Sao Paulo,SP
+555,13101,Campinas,SP
+556,91310,Porto Alegre,RS
+557,19025,Presidente Prudente,SP
+558,12230,Sao Jose Dos Campos,SP
+559,89256,Jaragua Do Sul,SC
+560,14090,Ribeirao Preto,SP
+561,89022,Blumenau,SC
+562,88107,Sao Jose,SC
+563,2310,Sao Paulo,SP
+564,29600,Afonso Claudio,ES
+565,29313,Cachoeiro De Itapemirim,ES
+566,2376,Sao Paulo,SP
+567,6460,Barueri,SP
+568,4679,Sao Paulo,SP
+569,27274,Volta Redonda,RJ
+570,89228,Joinville,SC
+571,86060,Londrina,PR
+572,13320,Salto,SP
+573,15350,Auriflama,SP
+574,13720,Scao Jose Do Rio Pardo,SP
+575,95360,Parai,RS
+576,7402,Aruja,SP
+577,13457,Santa Barbara D'Oeste,SP
+578,3563,Sao Paulo,SP
+579,24020,Niteroi,RJ
+580,7179,Guarulhos,SP
+581,36500,Uba,MG
+582,3287,Sao Paulo,SP
+583,4773,Sao Paulo,SP
+584,13478,Americana,SP
+585,9690,Sao Bernardo Do Campo,SP
+586,13601,Araras,SP
+587,74590,Goiania,GO
+588,29300,Cachoeiro De Itapemirim,ES
+589,3306,Sao Paulo,SP
+590,15046,Sao Jose Do Rio Preto,SP
+591,6790,Taboao Da Serra,SP
+592,69005,Manaus,AM
+593,11701,Praia Grande,SP
+594,85865,Foz Do Iguacu,PR
+595,15805,Catanduva,SP
+596,88504,Lages,SC
+597,22451,Rio De Janeiro,RJ
+598,4705,Sao Paulo,SP
+599,97502,Uruguaiana,RS
+600,35557,Carmo Do Cajuru,MG
+601,13403,Piracicaba,SP
+602,13880,Vargem Grande Do Sul,SP
+603,87040,Maringa,PR
+604,9190,Santo Andre,SP
+605,80040,Curitiba,PR
+606,87015,Maringa,PR
+607,76804,Porto Velho,RO
+608,91510,Porto Alegre,RS
+609,7084,Guarulhos,SP
+610,22790,Rio De Janeiro,RJ
+611,6717,Cotia,SP
+612,86010,Londrina,PR
+613,95705,Bento Goncalves,RS
+614,89052,Blumenau,SC
+615,89218,Joinville,SC
+616,29107,Vila Velha,ES
+617,98290,Condor,RS
+618,16304,Penapolis,SP
+619,12240,Sao Jose Dos Campos,SP
+620,13033,Campinas,SP
+621,5413,Sao Paulo,SP
+622,89117,Gaspar,SC
+623,13023,Campinas,SP
+624,85802,Cascavael,PR
+625,13360,Capivari,SP
+626,13322,Salto,SP
+627,14406,Franca,SP
+628,81210,Curitiba,PR
+629,36415,Congonhas,MG
+630,93700,Campo Bom,RS
+631,9350,Maua,SP
+632,5171,Sao Paulo,SP
+633,92120,Canoas,RS
+634,14020,Ribeirao Preto,SP
+635,14802,Araraquara,SP
+636,93040,Sao Leopoldo,RS
+637,88960,Sombrio,SC
+638,86061,Londrina,PR
+639,9510,Sao Caetano Do Sul,SP
+640,4083,Sao Paulo,SP
+641,9570,Sao Caetano Do Sul,SP
+642,6040,Osasco,SP
+643,11010,Santos,SP
+644,85904,Toledo,PR
+645,13070,Campinas,SP
+646,22793,Rio De Janeiro,RJ
+647,17900,Dracena,SP
+648,74323,Goiania,GO
+649,4815,Sao Paulo,SP
+650,18087,Sorocaba,SP
+651,83015,Sao Jose Dos Pinhais,PR
+652,85640,Ampere,PR
+653,4248,Sao Paulo,SP
+654,4615,Sao Paulo,SP
+655,13480,Limeira,SP
+656,62170,Mucambo,CE
+657,80010,Curitiba,PR
+658,6717,Cotia,SP
+659,23092,Rio De Janeiro,RJ
+660,4676,Sao Paulo,SP
+661,8577,Itaquaquecetuba,SP
+662,12238,Sao Jose Dos Campos,SP
+663,4364,Sao Paulo,SP
+664,86010,Londrina,PR
+665,4763,Sao Paulo,SP
+666,17520,Marilia,SP
+667,6332,Carapicuiba,SP
+668,13082,Campinas,SP
+669,14940,Ibitinga,SP
+670,89069,Blumenau,SC
+671,18760,Cerqueira Cesar,SP
+672,21210,Rio De Janeiro,RN
+673,4905,Sao Paulo,SP
+674,17056,Bauru,SP
+675,3550,Sao Paulo,SP
+676,9182,Santo Andre,SP
+677,95690,Rolante,RS
+678,80250,Curitiba,PR
+679,40285,Salvador,BA
+680,14780,Barretos,SP
+681,74563,Goiania,GO
+682,4243,Sao Paulo,SP
+683,13420,Sao Paulo,SP
+684,74835,Goiania,GO
+685,2451,Sao Paulo,SP
+686,84600,Uniao Da Vitoria,PR
+687,2522,Sao Paulo,SP
+688,8226,Sao Paulo,SP
+689,31365,Belo Horizonte,MG
+690,71900,Aguas Claras Df,SP
+691,6132,Osasco,SP
+692,13040,Campinas,SP
+693,74343,Goiania,GO
+694,3210,Sao Paulo,SP
+695,13480,Limeira,SP
+696,15076,Sao Jose Do Rio Preto,SP
+697,30150,Belo Horizonte,MG
+698,14940,Ibitinga,SP
+699,9280,Santo Andre,SP
+700,14940,Ibitinga,SP
+701,88210,Porto Belo,SC
+702,87040,Maringa,PR
+703,4811,Sao Paulo,SP
+704,6473,Barueri,SP
+705,8275,Sao Paulo,SP
+706,6033,Osasco,SP
+707,86046,Londrina,PR
+708,83800,Mandirituba,PR
+709,25561,Sao Joao De Meriti,RJ
+710,89251,Jaragua Do Sul,SC
+711,72460,Gama,DF
+712,83408,Colombo,PR
+713,3804,Sao Paulo,SP
+714,13154,Cosmopolis,SP
+715,82510,Curitiba,PR
+716,9831,Sao Bernardo Do Campo,SP
+717,13040,Campinas,SP
+718,89217,Joinville,SC
+719,9810,Sao Bernardo Do Campo,SP
+720,31340,Contagem,MG
+721,6694,Itapevi,SP
+722,13040,Campinas,SP
+723,14940,Ibitinga,SP
+724,18015,Sorocaba,SP
+725,39400,Montes Claros,MG
+726,3244,Sao Paulo,SP
+727,22785,Rio De Janeiro,RJ
+728,8041,Sao Paulo,SP
+729,12327,Jacarei,SP
+730,88270,Nova Trento,SC
+731,86170,Sertanopolis,SP
+732,13232,Campo Limpo Paulista,SP
+733,3031,Sao Paulo,SP
+734,60346,Fortaleza,CE
+735,35430,Ponte Nova,MG
+736,82515,Curitiba,PR
+737,2880,Sao Paulo,SP
+738,37550,Pouso Alegre,MG
+739,15704,Jales,SP
+740,3343,Sao Paulo,SP
+741,3124,Sao Paulo,SP
+742,18040,Sorocaba,SP
+743,8032,Sao Paulo,SP
+744,20751,Rio De Janeiro,RJ
+745,80020,Curitiba,PR
+746,36201,Barbacena,MG
+747,1452,Sao Paulo,SP
+748,80215,Curitiba,PR
+749,87240,Terra Boa,PR
+750,3035,Sao Paulo,SP
+751,81560,Curitiba,PR
+752,89211,Joinville,SC
+753,83833,Fazenda Rio Grande,PR
+754,6853,Itapecerica Da Serra,SP
+755,86039,Londrina,PR
+756,22745,Rio De Janeiro,RJ
+757,3480,Sao Paulo,SP
+758,95013,Caxias Do Sul,RS
+759,13825,Holambra,SP
+760,14802,Araraquara,SP
+761,35044,Governador Valadares,MG
+762,8596,Itaquaquecetuba,SP
+763,82620,Curitiba,PR
+764,20520,Rio De Janeiro,RJ
+765,17700,Osvaldo Cruz,SP
+766,39740,Guanhaes,MG
+767,30220,Belo Horizonte,MG
+768,30310,Belo Horizonte,MG
+769,36032,Juiz De Fora,MG
+770,7747,Caieiras,SP
+771,29056,Vitoria,ES
+772,18500,Tatui,SP
+773,3059,Sao Paulo,SP
+774,9230,Santo Andre,SP
+775,52010,Recife,PE
+776,85603,Francisco Beltrao,PR
+777,9400,Ribeirao Pires,SP
+778,11065,Santos,SP
+779,13060,Campinas,SP
+780,71906,Brasilia Df,DF
+781,95885,Imigrante,RS
+782,5051,Sao Paulo,SP
+783,31555,Belo Horizonte,MG
+784,9070,Santo Andre,SP
+785,9220,Santo Andre,SP
+786,2470,Sao Paulo,SP
+787,59020,Natal,RN
+788,38182,Araxa,MG
+789,29260,Domingos Martins,ES
+790,11446,Guaruja,SP
+791,9710,Sao Bernardo Do Campo,SP
+792,48602,Bahia,BA
+793,14940,Ibitinga,SP
+794,13471,Americana,SP
+795,87014,Maringa,PR
+796,3910,Sao Paulo,SP
+797,71551,Brasilia,DF
+798,74045,Goiania,GO
+799,9090,Santo Andre,SP
+800,95012,Caxias Do Sul,RS
+801,12995,Pinhalzinho,SP
+802,4857,Sao Paulo,SP
+803,35170,Coronel Fabriciano,MG
+804,2475,Sao Paulo,SP
+805,14110,Ribeirao Preto,SP
+806,13720,Sao Jose Do Rio Pardo,SP
+807,70235,Brasilia,DF
+808,5571,Sao Paulo,SP
+809,9434,Ribeirao Pires,SP
+810,22793,Rio De Janeiro,RJ
+811,13041,Campinas,SP
+812,2028,Sao Paulo,SP
+813,44895,Barro Alto,BA
+814,91910,Porto Alegre,RS
+815,8730,Mogi Das Cruzes,SP
+816,87050,Maringa,PR
+817,37006,Varginha,MG
+818,71936,Brasilia,DF
+819,6341,Carapicuiba,SP
+820,71070,Brasilia,DF
+821,15502,Votuporanga,SP
+822,17506,Marilia,SP
+823,6714,Cotia,SP
+824,5615,Sao Paulo,SP
+825,98780,Santa Rosa,RS
+826,99500,Carazinho,RS
+827,92010,Canoas,RS
+828,2281,Sao Paulo,SP
+829,13603,Araras,SP
+830,19029,Presidente Prudente,SP
+831,27525,Resende,RJ
+832,89128,Luiz Alves,SC
+833,18052,Sorocaba,SP
+834,13140,Paulinia,SP
+835,15813,Catanduva,SP
+836,90670,Porto Alegre,RS
+837,7176,Guarulhos,SP
+838,18130,Sao Roque,SP
+839,13490,Cordeiropolis,SP
+840,18015,Sorocaba,SP
+841,83323,Pinhais,PR
+842,20931,Rio De Janeiro,RJ
+843,84920,Japira,PR
+844,22240,Rio De Janeiro,RJ
+845,35530,Claudio,MG
+846,13424,Piracicaba,SP
+847,9931,Diadema,SP
+848,33600,Pedro Leopoldo,MG
+849,64033,Teresina,PI
+850,36213,Dores De Campos,MG
+851,13403,Piracicaba,SP
+852,3573,Sao Paulo,SP
+853,92310,Canoas,RS
+854,13800,Mogi Mirim,SP
+855,27277,Volta Redonda,SP
+856,89190,Taio,SC
+857,17209,Jau,SP
+858,14840,Guariba,SP
+859,90020,Porto Alegre,RS
+860,17700,Osvaldo Cruz,SP
+861,1220,Sao Paulo,SP
+862,35540,Oliveira,MG
+863,91740,Porto Alegre,RS
+864,81130,Curitiba,PR
+865,27321,Barra Mansa,RJ
+866,36050,Juiz De Fora,MG
+867,89031,Blumenau,SC
+868,4208,Sao Paulo,SP
+869,12080,Taubate,SP
+870,18074,Sorocaba,SP
+871,9981,Diadema,SP
+872,8215,Sao Paulo,SP
+873,90520,Porto Alegre,RS
+874,3334,Sao Paulo,SP
+875,2918,Sao Paulo,SP
+876,3031,Sao Paulo,SP
+877,35570,Formiga,MG
+878,9830,Sao Bernardo Do Campo,SP
+879,70610,Brasilia,DF
+880,13920,Pedreira,SP
+881,4537,Sao Paulo,SP
+882,14940,Ibitinga,SP
+883,17504,Marilia,SP
+884,24445,Sao Goncalo,RJ
+885,84500,Irati,PR
+886,35590,Lagoa Da Prata,MG
+887,45816,Arraial D'Ajuda (Porto Seguro),BA
+888,89460,Canoinhas,SC
+889,14940,Ibitinga,SP
+890,14092,Ribeirao Preto,SP
+891,49055,Aracaju,SE
+892,87025,Vendas@Creditparts.Com.Br,PR
+893,96400,Bage,RS
+894,13484,Limeira,SP
+895,6795,Taboao Da Serra,SP
+896,8790,Mogi Das Cruzes,SP
+897,4564,Sao Paulo,SP
+898,9230,Santo Andre,SP
+899,99500,Carazinho,RS
+900,69900,Rio Branco,AC
+901,13561,Sao Carlos,SP
+902,35500,Divinopolis,MG
+903,19814,Assis,SP
+904,15070,Sao Jose Do Rio Preto,SP
+905,3111,Sao Paulo,SP
+906,13232,Campo Limpo Paulista,SP
+907,3167,Sao Paulo,SP
+908,17510,Marilia,SP
+909,3933,Sao Paulo,SP
+910,6341,Carapicuiba,SP
+911,87013,Maringa,PR
+912,12940,Atibaia,SP
+913,24020,Niteroi,RJ
+914,15603,Fernandopolis,SP
+915,14940,Ibitinga,SP
+916,14026,Ribeirao Preto,SP
+917,85906,Toledo,PR
+918,9895,Sao Bernardo Do Campo,SP
+919,83823,Fazenda Rio Grande,PR
+920,14910,Tabatinga,SP
+921,36052,Juiz De Fora,MG
+922,30120,Belo Horizonte,MG
+923,85988,Entre Rios Do Oeste,PR
+924,17209,Jau,SP
+925,31525,Belo Horizonte,MG
+926,6803,Embu Das Artes,SP
+927,4209,Sao Paulo,SP
+928,86300,Cornelio Procopio,PR
+929,91150,Porto Alegre,RS
+930,80210,Curitiba,PR
+931,17230,Itapui,SP
+932,13272,Valinhos,SP
+933,1131,Sao Paulo,SP
+934,83402,Colombo,PR
+935,2112,Sao Paulo,SP
+936,32604,Betim,MG
+937,25550,Sao Joao De Meriti,RJ
+938,8673,Suzano,SP
+939,31565,Belo Horizonte,MG
+940,8020,Sao Paulo,SP
+941,13660,Portoferreira,SP
+942,37410,Tres Coracoes,MG
+943,14092,Ribeirao Preto,SP
+944,11440,Guaruja,SP
+945,14882,Jaboticabal,SP
+946,12238,Sao Jose Dos Campos,SP
+947,8420,Sao Paulo,SP
+948,12327,Jacarei,SP
+949,94930,Cachoeirinha,RS
+950,2334,Sao Paulo,SP
+951,5743,Sao Paulo,SP
+952,5030,Sao Paulo,SP
+953,6807,Embu Das Artes,SP
+954,5004,Sao Paulo,SP
+955,6768,Taboao Da Serra,SP
+956,30240,Belo Horizonte,MG
+957,2337,Sao Paulo,SP
+958,99670,Ronda Alta,RS
+959,44002,Feira De Santana,BA
+960,87035,Maringa,PR
+961,11013,Santos,SP
+962,3725,Sao Paulo,SP
+963,8583,Itaquaquecetuba,SP
+964,37706,Pocos De Caldas,MG
+965,9271,Santo Andre,SP
+966,3963,Sao Paulo,SP
+967,9520,Sao Caetano Do Sul,SP
+968,15155,Jaci,SP
+969,4131,Sao Paulo,SP
+970,35530,Claudio,MG
+971,29104,Vila Velha,ES
+972,20060,Rio De Janeiro,RJ
+973,9862,Sao Bernardo Do Campo,SP
+974,82900,Curitiba,PR
+975,17515,Marilia,SP
+976,79090,Campo Grande,MS
+977,9720,Sao Bernardo Do Campo,SP
+978,22230,Rio De Janeiro,RJ
+979,13835,Conchal,SP
+980,37540,Santa Rita Do Sapucai,MG
+981,89180,Rio Do Oeste,SC
+982,12914,Braganca Paulista,SP
+983,31510,Belo Horizonte,MG
+984,96203,Rio Grande,RS
+985,15050,Sao Jose Do Rio Preto,SP
+986,85801,Cascavel,PR
+987,6192,Osasco,SP
+988,17300,Dois Corregos,SP
+989,11075,Santos,SP
+990,85801,Cascavel,PR
+991,3311,Sao Paulo,SP
+992,13091,Campinas,SP
+993,59152,Parnamirim,RN
+994,6453,Barueri,SP
+995,7024,Guarulhos,SP
+996,17400,Garca,SP
+997,17600,Tupa,SP
+998,3178,Sao Paulo,SP
+999,18130,Sao Roque,SP
+1000,87050,Maringa,PR
+1001,13820,Monte Alegre Do Sul,SP
+1002,13573,Sao Carlos,SP
+1003,83321,Pinhais,PR
+1004,88301,Itajai,SP
+1005,6268,Osasco,SP
+1006,93348,Novo Hamburgo,RS
+1007,1129,Sao Paulo,SP
+1008,80540,Curitiba,PR
+1009,86820,California,PR
+1010,19830,Echapora,SP
+1011,16300,Penapolis,SP
+1012,95840,Triunfo,RS
+1013,85807,Cascavel,PR
+1014,42738,Lauro De Freitas,BA
+1015,3461,Sao Paulo,SP
+1016,18200,Itapetininga,SP
+1017,9270,Santo Andre,SP
+1018,13214,Jundiai,SP
+1019,20735,Rio De Janeiro,RJ
+1020,20270,Rio De Janeiro,RJ
+1021,4516,Sao Paulo,SP
+1022,31520,Belo Horizonte,MG
+1023,13339,Indaiatuba,SP
+1024,14940,Ibitinga,SP
+1025,13920,Pedreira,SP
+1026,20040,Rio De Janeiro,RJ
+1027,30840,Belo Horizonte,MG
+1028,18060,Sorocaba,SP
+1029,82560,Curitiba,PR
+1030,2051,Sao Pauo,SP
+1031,29166,Serra,ES
+1032,9810,Sao Bernardo Do Campo,SP
+1033,85851,Foz Do Iguacu,PR
+1034,13456,Santa Barbara D'Oeste,SP
+1035,30550,Belo Horizonte,MG
+1036,88037,Florianopolis,SC
+1037,32280,Contagem,MG
+1038,13481,Limeira,SP
+1039,7192,Guarulhos,SP
+1040,83005,Sao Jose Dos Pinhais,PR
+1041,81200,Curitiba,PR
+1042,75650,Morrinhos,GO
+1043,4311,Sao Paulo,SP
+1044,89220,Joinville,SC
+1045,36301,Sao Joao Del Rei,MG
+1046,17052,Bauru,SP
+1047,14910,Tabatinga,SP
+1048,2122,Sao Paulo,SP
+1049,2150,Sao Paulo,SP
+1050,22061,Rio De Janeiro,RJ
+1051,6056,Osasco,SP
+1052,30575,Belo Horizonte,MG
+1053,13070,Campinas,SP
+1054,72015,Brasilia,DF
+1055,12062,Taubate,SP
+1056,3701,Sao Paulo,SP
+1057,3694,Sao Paulo,SP
+1058,9895,Sao Bernardo Do Campo,SP
+1059,88132,Palhoca,SC
+1060,7113,Guarulhos,SP
+1061,18076,Sorocaba,SP
+1062,2220,Sao Paulo,SP
+1063,1408,Sao Paulo,SP
+1064,89803,Chapeco,SP
+1065,12226,Sao Jose Dos Campos,SP
+1066,15075,Sao Jose Do Rio Preto,SP
+1067,95150,Nova Petropolis,RS
+1068,74550,Goiania,GO
+1069,60025,Fortaleza,CE
+1070,88132,Palhoca,SC
+1071,20061,Rio De Janeiro,RJ
+1072,98780,Santa Rosa,RS
+1073,14021,Ribeirao Preto,SP
+1074,89287,Sao Bento Do Sul,SC
+1075,37540,Santa Rita Do Sapucai,MG
+1076,88372,Navegantes,SC
+1077,13360,Capivari,SP
+1078,11250,Bertioga,SP
+1079,39400,Montes Claros,MG
+1080,90630,Porto Alegre,RS
+1081,95082,Caxias Do Sul,RS
+1082,5616,Sao Paulo,SP
+1083,13043,Campinas,SP
+1084,13504,Rio Claro,SP
+1085,83402,Colombo,PR
+1086,36407,Conselheiro Lafaiete,MG
+1087,13480,Limeira,SP
+1088,32185,Contagem,MG
+1089,82040,Curitiba,PR
+1090,8710,Mogi Das Cruses,SP
+1091,19010,Presidente Prudente,SP
+1092,38414,Uberlandia,MG
+1093,13043,Campinas,SP
+1094,11707,Praia Grande,SP
+1095,87050,Maringa,PR
+1096,80215,Curitiba,PR
+1097,3655,Sao Paulo,SP
+1098,95076,Caxias Do Sul,RS
+1099,21070,Rio De Janeiro,RJ
+1100,3679,Sao Paulo,SP
+1101,2916,Sao Paulo,SP
+1102,86010,Londrina,PR
+1103,13465,Americana,SP
+1104,13076,Campinas,SP
+1105,12250,Monteiro Lobato,SP
+1106,13320,Salto,SP
+1107,89650,Treze Tilias,SC
+1108,25720,Petropolis,RJ
+1109,19815,Assis,SP
+1110,89228,Joinville,SC
+1111,13203,Jundiai,SP
+1112,7013,Guarulhos,SP
+1113,14940,Ibitinga,SP
+1114,5424,Sao Paulo,SP
+1115,1214,Sao Paulo,SP
+1116,87702,Paranavai,PR
+1117,22640,Rio De Janeiro,RJ
+1118,37564,Borda Da Mata,MG
+1119,88050,Florianopolis,SC
+1120,25750,Petropolis,RJ
+1121,87502,Umuarama,PR
+1122,12246,Sao Jose Dos Campos,SP
+1123,19020,Presidente Prudente,SP
+1124,4567,Sao Paulo,SP
+1125,18070,Sorocaba,SP
+1126,38770,Joao Pinheiro,MG
+1127,15840,Itajobi,SP
+1128,38410,Uberlandia,MG
+1129,37165,Campo Do Meio,MG
+1130,35170,Coronel Fabriciano,MG
+1131,4144,Sao Paulo,SP
+1132,26525,Nilopolis,RJ
+1133,88075,Sao Jose,SC
+1134,3702,Sao Paulo,SP
+1135,15085,Sao Jose Do Rio Preto,SP
+1136,37004,Varginha,MG
+1137,1209,Sao Paulo,SP
+1138,6715,Cotia,SP
+1139,4176,Sao Paulo,SP
+1140,83324,Pinhais,PR
+1141,38700,Patos De Minas,MG
+1142,2215,Sao Paulo,SP
+1143,12952,Atibaia,SP
+1144,2710,Sao Paulo,SP
+1145,1026,Sao Paulo,SP
+1146,19804,Assis,SP
+1147,16200,Birigui,SP
+1148,5727,Sao Paulo,SP
+1149,6513,Santana De Parnaiba,SP
+1150,3171,Sao Paulo,SP
+1151,29010,Vitoria,ES
+1152,17580,Pompeia,SP
+1153,88035,Florianopolis,SC
+1154,13450,Santa Barbara D´Oeste,SP
+1155,88063,Florianopolis,SC
+1156,86800,Apucarana,PR
+1157,2113,Sao Paulo,SP
+1158,5302,Sao Paulo,SP
+1159,15076,Sao Jose Do Rio Preto,SP
+1160,85875,Santa Terezinha De Itaipu,PR
+1161,89801,Chapeco,SC
+1162,88330,Balenario Camboriu,SC
+1163,90560,Porto Alegre,RS
+1164,13880,Vargem Grande Do Sul,SP
+1165,14010,Ribeirao Preto,SP
+1166,14075,Ribeirao Preto,SP
+1167,1309,Sao Paulo,SP
+1168,17514,Marilia,SP
+1169,5126,Sao Paulo,SP
+1170,5125,Sao Paulo,SP
+1171,86707,Arapongas,PR
+1172,1550,Sao Paulo,SP
+1173,29138,Viana,ES
+1174,14020,Ribeirao Preto,SP
+1175,4880,Sao Paulo,SP
+1176,87083,Maringa,PR
+1177,92020,Canoas,RS
+1178,3554,Sao Paulo,SP
+1179,14940,Ibitinga,SP
+1180,83327,Pinhais/Pr,PR
+1181,6162,Osasco,SP
+1182,4809,Sao Paulo,SP
+1183,13043,Campinas,SP
+1184,13084,Campinas,SP
+1185,88359,Brusque,SC
+1186,6322,Carapicuiba,SP
+1187,15940,Fernando Prestes,SP
+1188,1201,Sao Paulo,SP
+1189,93542,Novo Hamburgo,RS
+1190,80620,Curitiba,PR
+1191,13304,Itu,SP
+1192,24855,Rio De Janeiro,RJ
+1193,37048,Varginha,MG
+1194,6268,Osasco,SP
+1195,14808,Araraquara,SP
+1196,37142,Divisa Nova,MG
+1197,7043,Guarulhos,SP
+1198,29160,Serra,ES
+1199,25645,Petropolis,RJ
+1200,2110,Sao Paulo,SP
+1201,89650,Treze Tilias,SC
+1202,35530,Claudio,MG
+1203,5138,Sao Paulo,SP
+1204,5048,Sao Paulo,SP
+1205,13320,Salto,SP
+1206,9010,Santo Andre,SP
+1207,4782,Sao Paulo,SP
+1208,80410,Curitiba,PR
+1209,14940,Ibitinga,SP
+1210,1026,Sao Paulo,SP
+1211,13212,Jundiai,SP
+1212,3340,Sao Paulo,SP
+1213,95170,Farroupilha,RS
+1214,4438,Sao Paulo,SP
+1215,21840,Rio De Janeiro,RJ
+1216,13212,Jundiai,SP
+1217,12242,Sao Jose Dos Campos,SP
+1218,38701,Patos De Minas,MG
+1219,2034,Sao Paulo,SP
+1220,13720,Sao Jose Do Rio Pardo,SP
+1221,5595,Sao Paulo,SP
+1222,24813,Itaborai,RJ
+1223,14940,Ibitinga,SP
+1224,14091,Ribeirao Preto,SP
+1225,2134,Sao Paulo,SP
+1226,89222,Joinville,SC
+1227,18072,Sorocaba,SP
+1228,19300,Presidente Bernardes,SP
+1229,82510,Curitiba,PR
+1230,81250,Curitiba,PR
+1231,44600,Ipira,BA
+1232,94810,Alvorada,RS
+1233,13042,Campinas,SP
+1234,9920,Diadema,SP
+1235,9951,Diadema,SP
+1236,5849,Sao Paulo,SP
+1237,7859,Franco Da Rocha,SP
+1238,87005,Maringa,PR
+1239,9180,Santo Andre,SP
+1240,6766,Taboao Da Serra,SP
+1241,93608,Estancia Velha,RS
+1242,45820,Eunapolis,BA
+1243,5782,Sao Paulo,SP
+1244,75650,Morrinhos,GO
+1245,3060,Sao Paulo,SP
+1246,3275,Sao Paulo,SP
+1247,14027,Ribeirao Pretp,SP
+1248,17290,Macatuba,SP
+1249,88330,Balneario Camboriu,SC
+1250,30390,Belo Horizonte,MG
+1251,8490,Sao Paulo,SP
+1252,3658,Sao Paulo,SP
+1253,83323,Pinhais,PR
+1254,31842,Belo Horizonte,MG
+1255,89160,Rio Do Sul,SC
+1256,15062,Sao Jose Do Rio Preto,SP
+1257,17210,Jau,SP
+1258,4771,Sao Paulo,SP
+1259,98975,Campina Das Missoes,RS
+1260,14096,Ribeirao Preto,SP
+1261,87025,Maringa,PR
+1262,80510,Curitiba,PR
+1263,85960,Marechal Candido Rondon,PA
+1264,18040,Sorocaba,SP
+1265,28800,Rio Bonito,RJ
+1266,1310,Sao Paulo,SP
+1267,35162,Ipatinga,MG
+1268,82400,Curitiba,PR
+1269,7062,Guarulhos,SP
+1270,83280,Guaratuba,PR
+1271,83709,Araucaria,PR
+1272,35570,Formiga,MG
+1273,9820,Sao Bernardo Do Campo,SP
+1274,13360,Capivari,SP
+1275,80420,Curitiba,PR
+1276,13920,Pedreira,SP
+1277,6186,Osasco,SP
+1278,7094,Guarulhos,SP
+1279,83280,Guaratuba,PR
+1280,21941,Rio De Janeiro,RJ
+1281,1026,Sao Paulo,SP
+1282,9170,Santo Andre,SP
+1283,6276,Osasco,SP
+1284,12230,Sao Jose Dos Campos,SP
+1285,1425,Sao Paulo,SP
+1286,80040,Curitiba,PR
+1287,20751,Rio De Janeiro,RJ
+1288,86802,Apucarana,PR
+1289,16200,Birigui,SP
+1290,14312,Batatais,SP
+1291,13790,Sao Sebastiao Da Grama/Sp,SP
+1292,75123,Anapolis,GO
+1293,17500,Marilia,SP
+1294,82220,Curitiba,PR
+1295,2839,Sao Paulo,SP
+1296,14709,Bebedouro,SP
+1297,26285,Nova Iguacu,RJ
+1298,9541,Sao Caetano Do Sul,SP
+1299,91130,Porto Alegre,RS
+1300,81825,Curitiba,PR
+1301,86990,Marialva,PR
+1302,72304,Brasilia,DF
+1303,22775,Rio De Janeiro,RJ
+1304,24346,Niteroi,RJ
+1305,1123,Sao Paulo,SP
+1306,75640,Piracanjuba,GO
+1307,7152,Guarulhos,SP
+1308,31160,Belo Horizonte,SP
+1309,95560,Torres,RS
+1310,6700,Cotia,SP
+1311,13215,Jundiai,SP
+1312,4101,Sao Paulo,SP
+1313,89031,Blumenau,SC
+1314,87050,Maringa,PR
+1315,75650,Morrinhos,GO
+1316,4293,Sao Paulo,SP
+1317,89120,Timbo,SC
+1318,84178,Castro,PR
+1319,80430,Curitiba,PR
+1320,14400,Franca,SP
+1321,5051,Sao Paulo,SP
+1322,97110,Santa Maria,RS
+1323,87035,Maringa,PR
+1324,17505,Marilia,SP
+1325,19025,Presidente Prudente,SP
+1326,17380,Brotas,SP
+1327,38400,Uberlandia,MG
+1328,31255,Belo Horizonte,MG
+1329,2873,Sao Paulo,SP
+1330,20091,Rio De Janeiro,RJ
+1331,82515,Curitiba,PR
+1332,89215,Joinville,SC
+1333,7051,Guarulhos,SP
+1334,4378,Sao Paulo,SP
+1335,80050,Curitiba,PR
+1336,14600,Sao Joaquim Da Barra,SP
+1337,87070,Maringa,PR
+1338,1026,Sao Paulo,SP
+1339,3270,Sao Paulo,SP
+1340,88137,Palhoca,SC
+1341,3543,Sao Paulo,SP
+1342,31230,Belo Horizonte,MG
+1343,20910,Rio De Janeiro,RJ
+1344,5311,Sao Paulo,SP
+1345,13505,Rio Claro,SP
+1346,83408,Colombo,PR
+1347,1539,Sao Paulo,SP
+1348,18090,Sorocaba,SP
+1349,95270,Flores Da Cunha,RS
+1350,15845,Marapoama,SP
+1351,5639,Sao Paulo,SP
+1352,13219,Jundiai,SP
+1353,23587,Rio De Janeiro,RJ
+1354,11040,Santos,SP
+1355,7135,Guarulhos,SP
+1356,3937,Sao Paulo,SP
+1357,4123,Sao Paulo,SP
+1358,3581,Sao Paulop,SP
+1359,21931,Rio De Janeiro,RJ
+1360,81280,Curitiba,PR
+1361,84925,Pinhalao,PR
+1362,8270,Sao Paulo,SP
+1363,18030,Sorocaba,SP
+1364,15601,Fernandopolis,SP
+1365,8180,Sao Paulo,SP
+1366,89460,Canoinhas,SC
+1367,14784,Barretos,SP
+1368,74435,Goiania,GO
+1369,6449,Barueri,SP
+1370,15014,S Jose Do Rio Preto,SP
+1371,36046,Juiz De Fora,MG
+1372,1026,Sao Paulo,SP
+1373,31210,Belo Horizonte,MG
+1374,16200,Birigui,SP
+1375,12327,Jacarei,SP
+1376,2727,Sao Paulo,SP
+1377,7866,Franco Da Rocha,SP
+1378,55004,Caruaru,PE
+1379,20930,Rio De Janeiro,RJ
+1380,1208,Sao Paulo,SP
+1381,8780,Mogi Das Cruzes,SP
+1382,13250,Itatiba,SP
+1383,1314,Sao Paulo,SP
+1384,35700,Sete Lagoas,MG
+1385,3018,Sao Paulo,SP
+1386,86600,Rolandia,PR
+1387,91360,Porto Alegre,RS
+1388,89560,Videira,SC
+1389,82130,Curitiba,PR
+1390,13901,Amparo,SP
+1391,81050,Curitiba,PR
+1392,16301,Penapolis,SP
+1393,15910,Monte Alto,SP
+1394,15055,Sao Jose Do Rio Preto,SP
+1395,3407,Sao Paulo / Sao Paulo,SP
+1396,13930,Serra Negra,SP
+1397,18270,Tatui,SP
+1398,89560,Videira,SC
+1399,18220,Alambari,SP
+1400,13088,Campinas,SP
+1401,82520,Curitiba,PR
+1402,14401,Franca,SP
+1403,8717,Mogi Das Cruzes / Sp,SP
+1404,3279,Sao Paulo,SP
+1405,85960,Marechal Candido Rondon,PR
+1406,13487,Limeira,SP
+1407,6519,Santana De Parnaiba,SP
+1408,93310,"Novo Hamburgo, Rio Grande Do Sul, Brasil",RS
+1409,14940,Ibitinga,SP
+1410,13390,Rio Das Pedras,SP
+1411,35530,Claudio,MG
+1412,3320,Sao Paulo,SP
+1413,38440,Araguari,MG
+1414,17320,Mineiros Do Tiete,SP
+1415,13481,Limeira,SP
+1416,4693,Sao Paulo,SP
+1417,85804,Cascavel,PR
+1418,7077,Guarulhos,SP
+1419,2116,Sao Paulo,SP
+1420,13500,Rio Claro,SP
+1421,13560,Sao Carlos,SP
+1422,88501,Lages - Sc,SC
+1423,13604,Araras,SP
+1424,71215,Brasilia,DF
+1425,33400,Lagoa Santa,MG
+1426,58400,Campina Grande,PB
+1427,82510,Curitiba,PR
+1428,13070,Campinas,SP
+1429,13560,Sao Carlos,SP
+1430,95055,Caxias Do Sul,SP
+1431,86181,Cambe,PR
+1432,9110,Santo Andre,SP
+1433,83408,Colombo,PR
+1434,2941,Sao Paulo,SP
+1435,14940,Ibitinga,SP
+1436,55602,Vitoria De Santo Antao,PE
+1437,4650,Sao Paulo,SP
+1438,11013,Santos,SP
+1439,7122,Guarulhos,SP
+1440,1156,Sao Paulo,SP
+1441,1311,Sao Paulo,SP
+1442,13845,Mogi Guacu,SP
+1443,74333,Goiania,GO
+1444,9405,Ribeirao Pires,SP
+1445,13097,Campinas,SP
+1446,70384,Brasilia,DF
+1447,21921,Rio De Janeiro,RJ
+1448,95072,Caxias Do Sul,RS
+1449,41820,Salvador,BA
+1450,74560,Goiania,GO
+1451,9350,Maua,SP
+1452,17606,Sao Paulo,SP
+1453,86026,Londrina,PR
+1454,13311,Itu,SP
+1455,7124,Guarulhos,SP
+1456,7074,Guarulhos,SP
+1457,16200,Birigui,SP
+1458,1529,Sao Paulo,SP
+1459,70645,Brasilia,DF
+1460,14075,Ribeirao Preto,SP
+1461,18015,Sorocaba,SP
+1462,3194,Sao Paulo,SP
+1463,80215,Curitiba,PR
+1464,89825,Xaxim,SC
+1465,4213,Sao Paulo,SP
+1466,2610,Sao Paulo,SP
+1467,9715,Sao Bernardo Do Campo,SP
+1468,80310,Curitiba,PR
+1469,7056,Guarulhos,SP
+1470,1541,Sao Paulo,SP
+1471,13600,Sao Paulo,SP
+1472,9912,Diadema,SP
+1473,95900,Lajeado,RS
+1474,70767,Brasilia,DF
+1475,28035,Campos Dos Goytacazes,RJ
+1476,6018,Osasco,SP
+1477,14801,Araraquara,SP
+1478,13064,Campinas,SP
+1479,13030,Campinas,SP
+1480,1040,Sao Paulo,SP
+1481,50751,Recife,PE
+1482,95711,Bento Goncalves,RS
+1483,8280,Sao Paulo,SP
+1484,4137,Sao Paulo,SP
+1485,17018,Bauru,SP
+1486,8810,Mogi Das Cruzes,SP
+1487,17510,Marilia,SP
+1488,96816,Santa Cruz Do Sul,RS
+1489,20021,Rio De Janeiro,RJ
+1490,14010,Ribeirao Preto,SP
+1491,14804,Araraquara,SP
+1492,80320,Curitiba,PR
+1493,5624,Sao Paulo,SP
+1494,1244,Sao Paulo,SP
+1495,29142,Cariacica / Es,ES
+1496,2611,Sao Paulo,SP
+1497,22420,Rio De Janeiro,RJ
+1498,85802,Cascavel,PR
+1499,13503,Rio Claro,SP
+1500,17011,Bauru,SP
+1501,86040,Londrina,PR
+1502,4276,Sao Paulo,SP
+1503,37590,Jacutinga,MG
+1504,81350,Curitiba,PR
+1505,22790,Rio De Janeiro,RJ
+1506,3426,Sao Paulo,SP
+1507,85601,Francisco Beltrao,PR
+1508,26562,Mesquita,RJ
+1509,9541,Sao Caetano Do Sul,SP
+1510,18500,Laranjal Paulista,SP
+1511,15807,Catanduva,SP
+1512,15013,Sao Jose Do Rio Preto,SP
+1513,14940,Ibitinga,SP
+1514,28810,Rio Bonito,SP
+1515,2544,Sao Paulo,SP
+1516,17051,Bauru,SP
+1517,2016,Sao Paulo,SP
+1518,12924,Braganca Paulista,SP
+1519,15041,Sao Jose Do Rio Preto,SP
+1520,8225,Sao Paulo,SP
+1521,13710,Tambau,SP
+1522,74230,Goiania,GO
+1523,6154,Osasco,SP
+1524,88705,Tubarao,SC
+1525,87900,Loanda,PR
+1526,5713,Sao Paulo,SP
+1527,17017,Bauru,SP
+1528,2047,Sao Paulo,SP
+1529,18550,Boituva,SP
+1530,9530,Sao Caetano Do Sul,SP
+1531,18136,Sao Roque,SP
+1532,13086,Campinas,SP
+1533,24725,Sao Goncalo,RJ
+1534,88380,Picarras,SC
+1535,5201,Sao Paulo,SP
+1536,8577,Itaquaquecetuba,SP
+1537,17400,Garca,SP
+1538,2750,Sao Paulo,SP
+1539,35701,Sete Lagoas,MG
+1540,1125,Sao Paulo,SP
+1541,14050,Ribeirao Preto,SP
+1542,88390,Barra Velha,SC
+1543,8820,Mogi Das Cruzes,SP
+1544,79104,Campo Grande,MS
+1545,1511,Sao Paulo,SP
+1546,1320,Sao Paulo,SP
+1547,14940,Ibitinga,SP
+1548,4735,Sao Paulo,SP
+1549,11442,Guaruja,SP
+1550,15170,Tanabi,SP
+1551,5424,Sao Paulo,SP
+1552,36213,Dores De Campos,MG
+1553,4403,Sao Paulo,SP
+1554,85813,Cascavel,PR
+1555,79112,Campo Grande,MS
+1556,14403,Franca,SP
+1557,30270,Belo Horizonte,MG
+1558,86185,Cambe,PR
+1559,4809,Sao Paulo,SP
+1560,9572,Sao Caetano Do Sul,SP
+1561,6429,Barueri,SP
+1562,1223,Sao Paulo,SP
+1563,30180,Belo Horizonte,MG
+1564,70719,Brasilia,DF
+1565,13041,Campinas,SP
+1566,1417,Sao Paulo,SP
+1567,88801,Criciuma,SC
+1568,4571,Sao Paulo,SP
+1569,13272,Valinhos,SP
+1570,13506,Rio Claro,SP
+1571,12306,Jacarei / Sao Paulo,SP
+1572,13800,Mogi Mirim,SP
+1573,7123,Guarulhos,SP
+1574,85904,Toledo,PR
+1575,20551,Rio De Janeiro,RJ
+1576,7183,Guarulhos,SP
+1577,89251,Jaragua Do Sul,SC
+1578,6753,Taboao Da Serra,SP
+1579,87030,Maringa,PR
+1580,89052,Blumenau,SP
+1581,2336,Sao Paulo,SP
+1582,4130,Sao Paulo - Sp,SP
+1583,4602,Sao Paulo,SP
+1584,86026,Londrina,PR
+1585,8223,Sao Paulo,SP
+1586,83323,Pinhais,PR
+1587,15046,Sao Jose Do Rio Preto,SP
+1588,88058,Florianopolis,SC
+1589,13206,Jundiai,SP
+1590,13560,Sao Carlos,SP
+1591,14940,Ibitinga,SP
+1592,17056,Bauru,SP
+1593,18015,Sorocaba,SP
+1594,18530,Tiete,SP
+1595,6764,Tabao Da Serra,SP
+1596,4141,Sao Paulo,SP
+1597,83020,Sao Jose Dos Pinhais,PR
+1598,35500,Divinopolis,MG
+1599,19063,Presidente Prudente,SP
+1600,4756,Sao Paulo,SP
+1601,87050,Maringa,PR
+1602,2030,Sao Paulo,SP
+1603,25803,Tres Rios,RJ
+1604,13840,Mogi Guacu,SP
+1605,88330,Balneario Camboriu,SC
+1606,81880,Curitiba,PR
+1607,1023,Sao Paulo,SP
+1608,17510,Marilia,SP
+1609,95013,Caxias Do Sul,RS
+1610,3417,Sao Paulo,SP
+1611,2518,Sao Paulo,SP
+1612,5786,Sao Paulo,SP
+1613,14808,Araraquara,SP
+1614,5181,Sao Paulo,SP
+1615,8030,Sao Paulo,SP
+1616,85875,Santa Terezinha De Itaipu,PR
+1617,88301,Itajai,SC
+1618,13905,Amparo,SP
+1619,21820,Rio De Janeiro,RJ
+1620,13560,Sao Carlos,SP
+1621,85601,Francisco Beltrao,PR
+1622,29101,Vila Velha,SP
+1623,6717,Cotia,SP
+1624,88056,Florianopolis,SC
+1625,25900,Mage,RJ
+1626,14055,Ribeirao Preto,SP
+1627,37584,Congonhal,MG
+1628,21041,Rio De Janeiro,RJ
+1629,93700,Campo Bom,RS
+1630,2851,Sao Paulo,SP
+1631,81200,Curitiba,PR
+1632,89031,Blumenau,SC
+1633,6018,Osasco,SP
+1634,85802,Cascavel,PR
+1635,12942,Atibaia,SP
+1636,4367,Sao Paulo,SP
+1637,18683,Lencois Paulista,SP
+1638,13257,Itatiba,SP
+1639,7112,Guarulhos,SP
+1640,27345,Barra Mansa,RJ
+1641,31255,Belo Horizonte,MG
+1642,88220,Itapema,SC
+1643,3658,Sao Paulo,SP
+1644,1001,Sao Paulo,SP
+1645,88495,Garopaba,SC
+1646,74223,Goiania,GO
+1647,14090,Ribeirao Preto,SP
+1648,21041,Rio De Janeiro,RJ
+1649,12308,Jacarei,SP
+1650,85884,Medianeira,PR
+1651,86706,Arapongas,PR
+1652,14401,Franca,SP
+1653,94410,Viamao,RS
+1654,89041,Blumenau,SC
+1655,88135,Palhoca,SC
+1656,37708,Pocos De Caldas,MG
+1657,90230,Porto Alegre,RS
+1658,9251,Santo Andre,SP
+1659,4208,Sao Paulo,SP
+1660,16480,Guaimbe,SP
+1661,8615,Suzano,SP
+1662,2036,Sao Paulo,SP
+1663,3059,Sao Paulo,SP
+1664,15190,Nhandeara,SP
+1665,5734,Sao Paulo,SP
+1666,12955,Bom Jesus Dos Perdoes,SP
+1667,31255,Belo Horizont,MG
+1668,14610,Ipua,SP
+1669,81070,Curitiba,PR
+1670,87030,Maringa,PR
+1671,88750,Braco Do Norte,SC
+1672,18682,Lencois Paulista,SP
+1673,1550,Sao Paulo,SP
+1674,6775,Taboao Da Serra,SP
+1675,88354,Brusque,SC
+1676,13570,Sao Carlos,SP
+1677,83280,Guaratuba,PR
+1678,3872,Sao Paulo,SP
+1679,8410,Sao Paulo,SP
+1680,3372,Sao Paulo,SP
+1681,14092,Ribeirao Preto,SP
+1682,3121,Sao Paulo,SP
+1683,71931,Brasilia,DF
+1684,5127,Sao Paulo,SP
+1685,2969,Sao Paulo,SP
+1686,6016,Osasco,SP
+1687,3103,Sao Paulo,SP
+1688,9380,Maua/Sao Paulo,SP
+1689,86060,Londrina,PR
+1690,27700,Vassouras,RJ
+1691,3187,Sao Paulo,SP
+1692,83091,Sao  Jose Dos Pinhais,PR
+1693,15155,Jaci,SP
+1694,81210,Curitiba,PR
+1695,2443,Sao Paulo,SP
+1696,82620,Curitiba,PR
+1697,8080,Sao Paulo,SP
+1698,19042,Presidente Prudente,SP
+1699,82940,Curitiba,PR
+1700,9540,Sao Caetano Do Sul,SP
+1701,32180,Contagem,MG
+1702,74150,Goiania,GO
+1703,88370,Navegantes,SC
+1704,17350,Igaracu Do Tiete,SP
+1705,87360,Goioere,SP
+1706,24451,Sao Goncalo,RJ
+1707,12243,Sao Jose Dos Campos,SP
+1708,83820,Fazenda Rio Grande,PR
+1709,1212,Sao Paulo,SP
+1710,6192,Osasco,SP
+1711,4111,Sao Paulo,SP
+1712,86020,Londrina,PR
+1713,26562,Mesquita,RJ
+1714,19803,Assis,SP
+1715,98910,Tres De Maio,RS
+1716,1222,Sao Paulo,SP
+1717,1552,Sao Paulo,SP
+1718,13178,Sumare,SP
+1719,89023,Blumenau,SC
+1720,11701,Praia Grande,SP
+1721,31050,Belo Horizonte,MG
+1722,13347,Indaiatuba,SP
+1723,98920,Horizontina,RS
+1724,6340,Carapicuiba,SP
+1725,83607,Campo Largo,PR
+1726,9336,Maua,SP
+1727,75110,Anapolis,GO
+1728,89254,Jaragua Do Sul,SC
+1729,37795,Andradas,MG
+1730,13504,Rio Claro,SP
+1731,88102,Sao Jose,SC
+1732,13056,Campinas,SP
+1733,61658,Caucaia,CE
+1734,18131,Sao Roque,SP
+1735,3052,Sao Paulo,SP
+1736,9780,Sao Bernardo Do Campo,SP
+1737,8411,Sao Paulo,SP
+1738,88490,Paulo Lopes,SC
+1739,1215,Sao Paulo,SP
+1740,28035,Rio De Janeiro,RJ
+1741,80220,Curitiba,PR
+1742,15131,Mirassol,SP
+1743,13060,Campinas,SP
+1744,4009,Sao Paulo,SP
+1745,90250,Porto Alegre,RS
+1746,36087,Juiz De Fora,MG
+1747,38442,Araguari,MG
+1748,12233,Sao Jose Dos Campos,SP
+1749,24710,Sao Goncalo,RJ
+1750,18053,Sorocaba,SP
+1751,89504,Cacador,SC
+1752,88804,Criciuma,SC
+1753,89030,Blumenau,SC
+1754,2755,Sao Paulo,SP
+1755,6440,Barueri,SP
+1756,4833,Sao Paulo,SP
+1757,5141,Pirituba,SP
+1758,35160,Ipatinga,MG
+1759,14090,Ribeirao Preto,SP
+1760,36325,Tiradentes,MG
+1761,85905,Toledo,PR
+1762,3976,Sao Paulo,SP
+1763,9130,Santo Andre,SP
+1764,18103,Sorocaba,SP
+1765,15015,Sao Jose Do Rio Preto,SP
+1766,2189,Sao Paulo,SP
+1767,88490,Paulo Lopes,SC
+1768,18500,Laranjal Paulista,SP
+1769,17509,Marilia,SP
+1770,8260,Sao Paulo,SP
+1771,5594,Sao Paulo,SP
+1772,13328,Salto,SP
+1773,90620,Porto Alegre,RS
+1774,13840,Mogi Guacu,SP
+1775,5734,Sao Paulo,SP
+1776,13835,Conchal,SP
+1777,80730,Curitiba,PR
+1778,6780,Taboao Da Serra,SP
+1779,15025,Sao Jose Do Rio Preto,SP
+1780,89065,Blumenau,SC
+1781,13900,Amparo,SP
+1782,87015,Maringa,PR
+1783,89041,Blumenau,SC
+1784,18040,Sorocaba,SP
+1785,80240,Curitiba,PR
+1786,5547,Sao Paulo,SP
+1787,13273,Valinhos,SP
+1788,89136,Rodeio,SC
+1789,88704,Tubarao,SC
+1790,27321,Barra Mansa,RJ
+1791,3029,Sao Paulo,SP
+1792,20771,Rio De Janeiro,RJ
+1793,1319,Sao Paulo,SP
+1794,88138,Palhoca,SC
+1795,4310,Sao Paulo,SP
+1796,86065,Londrina,PR
+1797,3384,Sao Paulo,SP
+1798,9810,Sao Bernardo Do Campo,SP
+1799,3504,Sao Paulo,SP
+1800,86039,Londrina,PR
+1801,81730,Curitiba,PR
+1802,81070,Curitiba,PR
+1803,36408,Conselheiro Lafaiete,MG
+1804,17051,Bauru,SP
+1805,7600,Mairipora,SP
+1806,3568,Sao Paulo,SP
+1807,30315,Belo Horizonte,MG
+1808,94451,Viamao,RS
+1809,4142,Sao Paulo,SP
+1810,38412,Uberlandia,MG
+1811,91520,Porto Alegre,SP
+1812,21040,Rio De Janeiro,RJ
+1813,9015,Santo Andre,SP
+1814,7221,Guarulhos,SP
+1815,18015,Sorocaba,SP
+1816,16250,Clementina,SP
+1817,18132,Sao Roque,SP
+1818,15502,Votuporanga,SP
+1819,14940,Ibitinga,SP
+1820,1541,Sao Paulo,SP
+1821,1208,Sao Paulo,SP
+1822,3673,Sao Paulo,SP
+1823,35930,Joao Monlevade,MG
+1824,86801,Apucarana,PR
+1825,4782,Sao Paulo,SP
+1826,4456,Sao Paulo,SP
+1827,37074,Varginha,MG
+1828,5008,Sao Paulo,SP
+1829,8223,Sao Paulo,SP
+1830,85950,Palotina,PR
+1831,21210,Rio De Janeiro,RJ
+1832,13481,Limeira,SP
+1833,37564,Borda Da Mata,MG
+1834,8290,Sao Paulo,SP
+1835,87504,Umuarama,PR
+1836,21510,Rio De Janeiro,RJ
+1837,12215,Sao Jose Dos Campos,SP
+1838,5537,Sao Paulo,SP
+1839,4154,Sao Paulo,SP
+1840,9920,Diadema,SP
+1841,4438,Sao Paulo,SP
+1842,38950,Ibia,MG
+1843,1530,Sao Paulo,SP
+1844,99700,Erechim,RS
+1845,28660,Bom Jardim,RJ
+1846,14140,Cravinhos,SP
+1847,88359,Brusque,SC
+1848,35530,Claudio,MG
+1849,14802,Araraquara,SP
+1850,8270,Sao Paulo,SP
+1851,14910,Tabatinga,SP
+1852,4160,Sao Paulo,SP
+1853,20520,Rio De Janeiro,RJ
+1854,4209,Sao Paulo,SP
+1855,12604,Lorena,SP
+1856,75901,Rio Verde,GO
+1857,13501,Rio Claro,SP
+1858,9687,Ao Bernardo Do Campo,SP
+1859,13474,Americana,SP
+1860,83602,Campo Largo,PR
+1861,36300,Sao Joao Del Rei,MG
+1862,81730,Curitiba,PR
+1863,2030,Sao Paulo,SP
+1864,87111,Sarandi,PR
+1865,5083,Sao Paulo,SP
+1866,27963,Macae,RJ
+1867,78095,Cuiaba,MT
+1868,87065,Maringa,PR
+1869,13912,Jaguariuna,SP
+1870,17605,Tupa,SP
+1871,5269,Sao Paulo,SP
+1872,2236,Sao Paulo,SP
+1873,3273,Sao Paulo,SP
+1874,12401,Sao Paulo,SP
+1875,14400,Franca,SP
+1876,15805,Catanduva,SP
+1877,15806,Catanduva,SP
+1878,26125,Belford Roxo,RJ
+1879,72801,Luziania,GO
+1880,36886,Muriae,MG
+1881,76330,Jaragua,GO
+1882,2880,Sao Paulo,SP
+1883,83830,Fazenda Rio Grande,PR
+1884,39442,Janauba,MG
+1885,8215,Sao Paulo,SP
+1886,11450,Vicente De Carvalho,SP
+1887,39400,Montes Claros,MG
+1888,22745,Rio De Janeiro,RJ
+1889,85200,Pitanga,PR
+1890,11013,Santos,SP
+1891,4843,Sao Paulo,SP
+1892,18550,Boituva,SP
+1893,83005,Sao Jose Dos Pinhais,PR
+1894,13330,Indaiatuba,SP
+1895,2422,Sao Paulo,SP
+1896,89053,Blumenau,SC
+1897,32140,Contagem,MG
+1898,79400,Coxim,MS
+1899,12230,Sao Jose Dos Campos,SP
+1900,11702,Praia Grande,SP
+1901,3134,Sao Paulo,SP
+1902,35547,Carmo Da Mata,MG
+1903,95020,Caxias Do Sul,RS
+1904,20785,Rio De Janeiro,RJ
+1905,87900,Loanda,PR
+1906,81200,Curitiba,PR
+1907,37650,Camanducaia,MG
+1908,6180,Osasco,SP
+1909,16200,Birigui,SP
+1910,83707,Araucaria,PR
+1911,14403,Franca,SP
+1912,14940,Ibitinga,SP
+1913,1044,Sao Paulo,SP
+1914,13613,Leme,SP
+1915,18025,Sorocaba,SP
+1916,88075,Florianopolis,SP
+1917,74930,Aparecida De Goiania,GO
+1918,80330,Curitiba,PR
+1919,14075,Ribeirao Preto,SP
+1920,14403,Franca,SP
+1921,6290,Osasco,SP
+1922,15500,Votuporanga,SP
+1923,3569,Sao Paulo,SP
+1924,4716,Sao Paulo,SP
+1925,85851,Foz Do Iguacu,PR
+1926,37540,Santa Rita Do Sapucai,MG
+1927,89225,Joinville,SC
+1928,93032,Sao Leopoldo,RS
+1929,14020,Ribeirao Preto,SP
+1930,12051,Taubate,SP
+1931,16800,Mirandopolis,SP
+1932,9550,Sao Caetano Do Sul,SP
+1933,2562,Sao Paulo,SP
+1934,13570,Sao Carlos,SP
+1935,32315,Contagem,MG
+1936,5462,Sao Paulo,SP
+1937,14940,Ibitinga,SP
+1938,12020,Taubate,SP
+1939,4102,Sao Paulo,SP
+1940,21041,Rio De Janeiro,RJ
+1941,4360,Sao Paulo,SP
+1942,30270,Belo Horizonte,MG
+1943,3147,Sao Paulo,SP
+1944,18590,Bofete,SP
+1945,26255,Nova Iguacu,RJ
+1946,14401,Franca,SP
+1947,35501,Divinopolis,MG
+1948,3382,Sao Paulo,SP
+1949,4719,Sao Paulo,SP
+1950,93800,Sapiranga,RS
+1951,81900,Curitiba,PR
+1952,8500,Ferraz De Vasconcelos,SP
+1953,83075,Sao Jose Dos Pinhais,PR
+1954,13210,Jundiai,SP
+1955,37175,Ilicinea,MG
+1956,13330,Indaiatuba,SP
+1957,22790,Rio De Janeiro,RJ
+1958,89207,Joinville,SC
+1959,83321,Pinhais,SP
+1960,18035,Sorocaba,SP
+1961,13211,Jundiai,SP
+1962,3804,Sao Paulo,SP
+1963,18055,Sorocaba,SP
+1964,6311,Carapicuiba / Sao Paulo,SP
+1965,83323,Pinhais,PR
+1966,4708,Sao Paulo,SP
+1967,12209,Sao Jose Dos Campos,SP
+1968,87043,Maringa,PR
+1969,14806,Araraquara,SP
+1970,6513,Santana De Parnaiba,SP
+1971,90220,Porto Alegre,RS
+1972,15056,Sao Jose Do Rio Preto,SP
+1973,16500,Cafelandia,SP
+1974,4447,Sao Paulo,SP
+1975,6283,Osasco,SP
+1976,27353,Barra Mansa,RJ
+1977,5043,Sao Paulo,SP
+1978,14530,Miguelopolis,SP
+1979,15070,Sao Jose Do Rio Preto,SP
+1980,88063,Florianopolis,SC
+1981,81560,Curitiba,SP
+1982,4041,Sao Paulo,SP
+1983,29150,Cariacica,ES
+1984,93347,Novo Hamburgo,RS
+1985,15081,Sao Jose Do Rio Preto,SP
+1986,6455,Barueri,SP
+1987,14020,Ribeirao Preto,SP
+1988,4424,Sao Paulo,SP
+1989,89204,Joinville,SC
+1990,9721,Sao Bernardo Do Capo,SP
+1991,14620,Orlandia,SP
+1992,41342,Salvador,BA
+1993,14940,Ibitinga,SP
+1994,82400,Curitiba,PR
+1995,4557,Sao Paulo,SP
+1996,3638,Sao Paulo,SP
+1997,3702,Sao Paulo,SP
+1998,5138,Sao Paulo,SP
+1999,81050,Curitiba,PR
+2000,14406,Franca,SP
+2001,91920,Porto Alegre,RS
+2002,15130,Mirassol,SP
+2003,2411,Sao Paulo,SP
+2004,89036,Blumenau,SC
+2005,3017,Sao Paulo,SP
+2006,88090,Florianopolis,SC
+2007,13177,Sumare,SP
+2008,21020,Rio De Janeiro,RJ
+2009,6286,Osasco,SP
+2010,9561,Sao Caetano Do Sul,SP
+2011,1545,Sao Paulo,SP
+2012,76900,Ji Parana,RO
+2013,38402,Uberlandia,MG
+2014,89219,Joinville,SC
+2015,88306,Itajai,SC
+2016,13960,Socorro,SP
+2017,4827,Sao Paulo,SP
+2018,87303,Campo Mourao,PR
+2019,55002,Caruaru,PE
+2020,5522,Sao Paulo,SP
+2021,13240,Jarinu,SP
+2022,24355,Niteroi,RJ
+2023,19400,Sao Paulo,SP
+2024,3951,Sao Paulo,SP
+2025,3809,Sao Paulo,SP
+2026,19027,Presidente Prudente,SP
+2027,6330,Carapicuiba,SP
+2028,58280,Mamanguape,PB
+2029,14401,Franca,SP
+2030,86975,Mandaguari,PR
+2031,95270,Flores Da Cunha,RS
+2032,17512,Marilia,SP
+2033,13530,Itirapina,SP
+2034,1215,Sao Paulo,SP
+2035,14780,Barretos,SP
+2036,8710,Mogi Das Cruzes,SP
+2037,3225,Sao Paulo,SP
+2038,4386,Sao Paulo,SP
+2039,29102,Vila Velha,ES
+2040,8577,Itaquaquecetuba,SP
+2041,29161,Serra,ES
+2042,88730,Sao Ludgero,SC
+2043,9850,Sao Bernardo Do Campo,SP
+2044,87502,Umuarama,PR
+2045,13486,Limeira,SP
+2046,84010,Ponta Grossa,PR
+2047,26510,Nilopolis,RJ
+2048,36320,Prados,MG
+2049,14300,Batatais,SP
+2050,9015,Santo Andre,SP
+2051,21545,Rio De Janeiro,RJ
+2052,13214,Jundiai,SP
+2053,4794,Sao Paulo,SP
+2054,1156,Sao Paulo,SP
+2055,82510,Curitiba,PR
+2056,32672,Betim,MG
+2057,38408,Uberlandia,MG
+2058,2752,Sao Paulo,SP
+2059,74340,Goiania,GO
+2060,9271,Santo Andre,SP
+2061,31035,Belo Horizonte,MG
+2062,83040,Sao Jose Dos Pinhas,PR
+2063,89120,Timbo,SC
+2064,88115,Sao Jose,SC
+2065,18279,Tatui,SP
+2066,86690,Colorado,PR
+2067,17604,Tupa,SP
+2068,4319,Sao Paulo,SP
+2069,96530,Paraiso Do Sul,RS
+2070,5729,Sao Paulo,SP
+2071,89820,Xanxere,SC
+2072,14055,Ribeirao Preto,SP
+2073,78020,Cuiaba,MT
+2074,80420,Curitiba,PR
+2075,21235,Rio De Janeiro,RJ
+2076,3631,Sao Paulo,SP
+2077,3334,Sao Paulo,SP
+2078,92030,Canoas,RS
+2079,14096,Ribeirao Preto,SP
+2080,7400,Aruja,SP
+2081,8773,Mogi Das Cruzes,SP
+2082,14270,Santa Rosa De Viterbo,SP
+2083,3423,Sao Paulo,SP
+2084,32110,Contagem,MG
+2085,2372,Sao Paulo,SP
+2086,3306,Sao Paulo,SP
+2087,95059,Caxias Do Sul,RS
+2088,88704,Tubarao,SC
+2089,80420,Curitiba,PR
+2090,38230,Fronteira,MG
+2091,93425,Novo Hamburgo,RS
+2092,76500,Santa Terezinha De Goias,GO
+2093,15015,Sao Jose Do Rio Preto,SP
+2094,13820,Jaguariuna,SP
+2095,38445,Araguari,MG
+2096,84172,Castro,PR
+2097,88350,Brusque,SC
+2098,81770,Curitiba,PR
+2099,9321,Maua,SP
+2100,35530,Claudio,MG
+2101,87505,Umuarama,PR
+2102,22051,Rio De Janeiro,RJ
+2103,14405,Franca,SP
+2104,3062,Sao Paulo,SP
+2105,86703,Arapongas,PR
+2106,85900,Toledo,PR
+2107,4361,Sao Paulo,SP
+2108,9060,Santo Andre,SP
+2109,83411,Colombo,PR
+2110,14802,Araraquara,SP
+2111,35670,Mateus Leme,MG
+2112,18500,Laranjal Paulista,SP
+2113,13690,Descalvado,SP
+2114,17047,Bauru,SP
+2115,35590,Lagoa Da Prata,MG
+2116,40130,Salvador,BA
+2117,95800,Venancio Aires,RS
+2118,22783,Rio De Janeiro,RJ
+2119,29704,Colatina,ES
+2120,16200,Birigui,SP
+2121,30431,Belo Horizonte,MG
+2122,13105,Campinas,SP
+2123,80710,Curitiba,PR
+2124,7170,Guarulhos,SP
+2125,4308,Sao Paulo,SP
+2126,85810,Cascavel,PR
+2127,18048,Sorocaba,SP
+2128,93608,Estancia Velha,RS
+2129,14090,Ribeirao Preto,SP
+2130,4186,Sao Paulo,SP
+2131,9951,Diadema,SP
+2132,4801,Sao Paulo,SP
+2133,35501,Divinopolis,MG
+2134,99500,Carazinho,RS
+2135,4714,Sao Paulo,SP
+2136,92030,Canoas,RS
+2137,3390,Sao Paulo,SP
+2138,24440,Sao Goncalo,RJ
+2139,79107,Campo Grande,MS
+2140,14940,Ibitinga,SP
+2141,9560,Sao Caetano Do Sul,SP
+2142,88061,Florianopolis,SC
+2143,95780,Montenegro,RS
+2144,14057,Ribeirao Preto,SP
+2145,4133,Sao Paulo,SP
+2146,80220,Curitiba,PR
+2147,3470,Sao Paulo,SP
+2148,13880,Vargem Grande Do Sul,SP
+2149,18604,Botucatu,SP
+2150,3318,Sao Paulo,SP
+2151,28950,Armacao Dos Buzios,RJ
+2152,95012,Caxias Do Sul,RS
+2153,38442,Araguari,MG
+2154,13481,Limeira,SP
+2155,14850,Pradopolis,SP
+2156,82540,Curitiba,PR
+2157,15013,Sao Jose Do Rio Preto,SP
+2158,3667,Sao Paulo,SP
+2159,4810,Sao Paulo,SP
+2160,14940,Ibitinga,SP
+2161,86065,Londrina,PR
+2162,14093,Ribeirao Preto,SP
+2163,15170,Tanabi,SP
+2164,74645,Goiania,GO
+2165,14407,Franca,SP
+2166,44600,Ipira,SP
+2167,4251,Sao Paulo,SP
+2168,18047,Sorocaba,SP
+2169,30285,Belo Horizonte,MG
+2170,4160,Sao Paulo,SP
+2171,13481,Limeira,SP
+2172,6653,Itapevi,SP
+2173,4711,Sao Paulo,SP
+2174,95034,Caxias Do Sul,RS
+2175,3880,Sao Paulo,SP
+2176,88780,Imbituba,SC
+2177,2955,Sao Paulo,SP
+2178,37640,Extrema,MG
+2179,11707,Praia Grande,SP
+2180,19830,Echapora,SP
+2181,90640,Porto Alegre,RS
+2182,89164,Rio Do Sul,SC
+2183,72251,Brasilia,DF
+2184,3561,Sao Paulo,SP
+2185,95800,Venancio Aires,RS
+2186,6852,Itapecerica Da Serra,SP
+2187,14020,Ribeirao Preto,SP
+2188,88020,Florianopolis,SC
+2189,2316,Sao Paulo,SP
+2190,80710,Curitiba,PR
+2191,7077,Garulhos,SP
+2192,3641,Sao Paulo,SP
+2193,1042,Sao Paulo,SP
+2194,9230,Santo Andre,SP
+2195,86702,Arapongas,PR
+2196,13405,Piracicaba,SP
+2197,1254,Sao Paulo,SP
+2198,20061,Rio De Janeiro,RJ
+2199,11015,Santos,SP
+2200,3237,Sao Paulo,SP
+2201,13185,Hortolandia,SP
+2202,25251,Duque De Caxias,RJ
+2203,95500,Santo Antonio Da Patrulha,RS
+2204,89520,Curitibanos,SC
+2205,88020,Florianopolis,SC
+2206,5741,Sao Paulo,SP
+2207,12331,Jacarei,SP
+2208,9633,Sao Bernardo Do Campo,SP
+2209,9360,Maua,SP
+2210,9541,Sao Caetano Do Sul,SP
+2211,4870,Sao Paulo,SP
+2212,9751,Sao Bernardo Do Campo,SP
+2213,89069,Blumenau,SC
+2214,25070,Duque De Caxias,RJ
+2215,37900,Passos,MG
+2216,4133,Sao Paulo,SP
+2217,81350,Curitiba,PR
+2218,14940,Ibitinga,SP
+2219,88303,Itajai,SC
+2220,81110,Curitiba,PR
+2221,87083,Parana,PR
+2222,83010,Sao Jose Dos Pinhais,PR
+2223,36502,Uba,MG
+2224,27930,Macae,RJ
+2225,3827,Sao Paulo,SP
+2226,85830,Formosa Do Oeste,PR
+2227,8246,Sao Paulo,SP
+2228,3001,Sao Paulo,SP
+2229,4283,Sao Paulo,SP
+2230,72318,Brasilia,DF
+2231,2274,Sao Paulo,SP
+2232,4363,Sao Paulo,SP
+2233,23550,Rio De Janeiro,RJ
+2234,30130,Belo Horizonte,MG
+2235,18044,Sorocaba,SP
+2236,5763,Sao Paulo,SP
+2237,88135,Santa Catarina,SC
+2238,7140,Guarulhos,SP
+2239,88113,Sao Jose,SC
+2240,22793,Rio De Janeiro,RJ
+2241,13660,Porto Ferreira,SP
+2242,4534,Sao Paulo,SP
+2243,89041,Blumenau,SC
+2244,12328,Jacarei,SP
+2245,13471,Americana,SP
+2246,5715,Sao Paulo,SP
+2247,30130,Belo Horizonte,MG
+2248,4362,Sao Paulo,SP
+2249,4307,Sao Paulo,SP
+2250,8011,Sao Paulo,SP
+2251,5008,Sao Paulo,SP
+2252,20930,Rio De Janeiro,RJ
+2253,23095,Rio De Janeiro,RJ
+2254,88056,Floranopolis,SC
+2255,4726,Sao Paulo,SP
+2256,32604,Betim,MG
+2257,74343,Goiania,GO
+2258,1512,Sao Paulo,SP
+2259,12940,Atibaia,SP
+2260,9111,Santo Andre,SP
+2261,13870,Sao Joao Da Boa Vista,SP
+2262,82200,Curitiba,PR
+2263,60348,Fortaleza,CE
+2264,8710,Mogi Das Cruzes,SP
+2265,13085,Campinas,SP
+2266,13015,Campinas,SP
+2267,13920,Pedreira,SP
+2268,7791,Cajamar,SP
+2269,9163,Santo Andre,SP
+2270,16200,Birigui,SP
+2271,4851,Sao Paulo,SP
+2272,4296,Sao Paulo,SP
+2273,14940,Ibitinga,SP
+2274,19806,Assis,SP
+2275,81540,Curitiba,PR
+2276,7180,Guarulhos,SP
+2277,3378,Sao Paulo,SP
+2278,71691,Brasilia,DF
+2279,1212,Sao Paulo,SP
+2280,7241,Guarulhos,SP
+2281,14078,Ribeirao Preto,SP
+2282,17017,Bauru,SP
+2283,3971,Sao Paulo,SP
+2284,89280,Sao Bento Do Sul,SC
+2285,20761,Rio De Janeiro,RJ
+2286,2963,Sao Paulo,SP
+2287,17370,Santa Maria Da Serra,SP
+2288,3526,Sao Paulo,SP
+2289,3533,Sao Paulo,SP
+2290,72210,Brasilia,DF
+2291,18680,Lencois Paulista,SP
+2292,16200,Birigui,SP
+2293,14025,Ribeirao Preto,SP
+2294,84430,Imbituva,PR
+2295,32419,Ibirite,MG
+2296,85900,Toledo,PR
+2297,13418,Piracicaba,SP
+2298,89256,Jaragua Do Sul,SC
+2299,7097,Guarulhos,SP
+2300,3553,Sao Paulo,SP
+2301,13271,Valinhos,SP
+2302,3308,Sao Paulo,SP
+2303,1224,Sao Paulo,SP
+2304,4256,Sao Paulo,SP
+2305,13408,Piracicaba,SP
+2306,83070,Sao Jose Dos Pinhais,PR
+2307,4180,Sao Paulo,SP
+2308,2537,Sao Paulo,SP
+2309,14055,Ribeirao Preto,SP
+2310,13930,Serra Negra,SP
+2311,22775,Rio De Janeiro,RJ
+2312,13481,Limeira,SP
+2313,7790,Cajamar,SP
+2314,83535,Campo Magro,PR
+2315,2035,Sao Paulo,SP
+2316,14080,Ribeirao Preto,SP
+2317,13568,Sao Carlos,SP
+2318,20766,Rio De Janeiro,RJ
+2319,82800,Curitiba,PR
+2320,24020,Niteroi,RJ
+2321,9220,Santo Andre,SP
+2322,26600,Paracambi,RJ
+2323,88032,Florianopolis,SC
+2324,89170,Laurentino,SC
+2325,11430,Guaruja,SP
+2326,4195,Sao Paulo,SP
+2327,13416,Piracicaba,SP
+2328,8021,Sao Paulo,SP
+2329,17400,Garca,SP
+2330,8275,Sao Paulo,SP
+2331,1207,Sao Paulo Sp,SP
+2332,5319,Sao Paulo,SP
+2333,12215,Sao Jose Dos Campos,SP
+2334,18120,Mairinque,SP
+2335,3521,Sao Paulo,SP
+2336,20521,Rio De Janeiro,RJ
+2337,9070,Santo Andre,SP
+2338,8070,Sao Paulo,SP
+2339,1026,Sao Paulo,SP
+2340,88308,Itajai,SC
+2341,4317,Sao Paulo,SP
+2342,83507,Almirante Tamandare,PR
+2343,20920,Rio De Janeiro,RJ
+2344,3548,Sao Paulo,SP
+2345,28630,Nova Friburgo,RJ
+2346,21510,Rio De Janeiro,RJ
+2347,5849,Sao Paulo,SP
+2348,81320,Curitiba,PR
+2349,8280,Sao Paulo,SP
+2350,4275,Sao Paulo,SP
+2351,13322,Salto,SP
+2352,13660,Porto Ferreira,SP
+2353,14020,Ribeirao Preto,SP
+2354,88359,Brusque,SC
+2355,88802,Criciuma,SC
+2356,90850,Porto Alegre,RS
+2357,26551,Mesquita,RJ
+2358,8050,Sao Paluo,SP
+2359,18681,Lencois Paulista,SP
+2360,5170,Sao Paulo,SP
+2361,14580,Guara,SP
+2362,4104,Sao Paulo,SP
+2363,21740,Rio De Janeiro,RJ
+2364,15350,Auriflama/Sp,SP
+2365,5705,Sao Paulo,SP
+2366,80610,Curitiba,PR
+2367,13840,Mogi Guacu,SP
+2368,4781,Sao Paulo,SP
+2369,5108,Sao Paulo,SP
+2370,86808,Apucarana,PR
+2371,81510,Curitiba,PR
+2372,6246,Osasco,SP
+2373,20710,Rio De Janeiro,RJ
+2374,19802,Assis,SP
+2375,9572,Sao Caetano Do Sul,SP
+2376,8840,Mogi Das Cruzes,SP
+2377,17560,Vera Cruz,SP
+2378,19023,Presidente Prudente,SP
+2379,18085,Sorocaba,SP
+2380,60741,Fortaleza,CE
+2381,80060,Curitiba,PR
+2382,13145,Paulinia,SP
+2383,13330,Indaiatuba,SP
+2384,6501,Santana De Parnaiba,SP
+2385,36325,Tiradentes,MG
+2386,49980,Neopolis,SE
+2387,2013,Sao Paulo,SP
+2388,11443,Guaruja,SP
+2389,3449,Sao Paulo,SP
+2390,95910,Lajeado,RS
+2391,81350,Curitiba,PR
+2392,9571,Sao Caetano Do Sul,SP
+2393,7174,Guarulhos,SP
+2394,12944,Atibaia,SP
+2395,32315,Contagem,MG
+2396,4276,Sao Paulo,SP
+2397,93180,Portao,RS
+2398,95625,Imbe,RS
+2399,11900,Registro,SP
+2400,95020,Caxias Do Sul,RS
+2401,14870,Jaboticabal,SP
+2402,3191,Sao Paulo,SP
+2403,3087,Sao Paulo,SP
+2404,8275,Sao Paulo,SP
+2405,13186,Hortolandia,SP
+2406,2751,Sao Paulo,SP
+2407,22783,Rio De Janeiro,SP
+2408,60440,Fortaleza,CE
+2409,46430,Guanambi,BA
+2410,89701,Concordia,SC
+2411,61800,Pacatuba,CE
+2412,89900,Sao Miguel Do Oeste,SC
+2413,6787,Taboao Da Serra,SP
+2414,87083,Maringa,PR
+2415,13160,Artur Nogueira,SP
+2416,89170,Laurentino,SC
+2417,4367,Sao Paulo,SP
+2418,89218,Joinville,SC
+2419,12916,Braganca Paulista,SP
+2420,30120,Belo Horizonte,MG
+2421,9111,Santo Andre,SP
+2422,90630,Porto Alegre,RS
+2423,75345,Abadia De Goias,GO
+2424,7133,Guarulhos,SP
+2425,81530,Curitiba,PR
+2426,4445,Sao Paulo,SP
+2427,1026,Sao Paulo,SP
+2428,37704,Pocos De Caldas,MG
+2429,38022,Uberaba,MG
+2430,9640,Sao Bernardo Do Campo,SP
+2431,83605,Campo Largo,PR
+2432,2040,Sao Paulo,SP
+2433,14750,Pitangueiras,SP
+2434,36512,Tocantins,SP
+2435,85880,Itaipulandia,PR
+2436,5713,Sao Paulo,SP
+2437,86707,Arapongas,PR
+2438,25730,Petropolis,RJ
+2439,8598,Itaquaquecetuba,SP
+2440,5734,Sao Paulo,SP
+2441,88210,Porto Belo,SC
+2442,18053,Sorocaba,SP
+2443,1411,Sao Paulo,SP
+2444,23943,Angra Dos Reis Rj,RJ
+2445,93510,Novo Hamburgo,RS
+2446,13145,Paulinia,SP
+2447,73020,Brasilia,DF
+2448,8011,Sao Paulo,SP
+2449,6871,Itapecerica Da Serra,SP
+2450,38400,Uberlandia,MG
+2451,90240,Porto Alegre,RS
+2452,4361,Sao Paulo,SP
+2453,9190,Sando Andre,SP
+2454,89820,Xanxere,SC
+2455,87020,Maringa,PR
+2456,9812,Sao Bernardo Do Campo,SP
+2457,12308,Jacarei,SP
+2458,2252,Sao Paulo,SP
+2459,13347,Indaiatuba,SP
+2460,88351,Brusque,SC
+2461,13170,Sumare,SP
+2462,85816,Cascavel,PR
+2463,18701,Avare,SP
+2464,37706,Pocos De Caldas,MG
+2465,4255,Sao Paulo,SP
+2466,6419,Barueri,SP
+2467,13506,Rio Claro,SP
+2468,3028,Sao Paulo,SP
+2469,3520,Sao Paulo,SP
+2470,88032,Florianopolis,SC
+2471,15115,Bady Bassitt,SP
+2472,87060,Maringa,PR
+2473,29100,Vila Velha,ES
+2474,24240,Niteroi,RJ
+2475,37540,Santa Rita Do Sapucai,MG
+2476,3551,Sao Paulo,SP
+2477,6544,Santana De Parnaiba,SP
+2478,15081,Sao Jose Do Rio Preto,SP
+2479,9726,Sbc/Sp,SP
+2480,2739,Sao Paulo,SP
+2481,82940,Curitiba,PR
+2482,9015,Santo Andre,SP
+2483,35501,Divinopolis,MG
+2484,15025,Sao Jose Do Rio Preto,SP
+2485,81050,Curitiba,PR
+2486,14940,Ibitinga,SP
+2487,85948,Pato Bragado,PR
+2488,88960,Sombrio,SC
+2489,89046,Blumenau,SC
+2490,80310,Curitiba,PR
+2491,81020,Curitiba,SP
+2492,12080,Taubate,SP
+2493,4119,Sao Paulo,SP
+2494,28633,Nova Friburgo,RJ
+2495,16208,Birigui,SP
+2496,13380,Nova Odessa,SP
+2497,88136,Palhoca,SP
+2498,14050,Ribeirao Preto,SP
+2499,23050,Rio De Janeiro,RJ
+2500,36071,Juiz De Fora,MG
+2501,15137,Mirassol,SP
+2502,5186,Sao Paulo,SP
+2503,89251,Jaragua Do Sul,SC
+2504,3006,Sao Paulo,SP
+2505,8655,Suzano,SP
+2506,20031,Rio De Janeiro,RJ
+2507,14090,Ribeirao Preto,SP
+2508,6711,Cotia,SP
+2509,81070,Curitiba,PR
+2510,37443,Baependi,MG
+2511,3161,Sao Paulo,SP
+2512,3821,Sao Paulo,SP
+2513,22790,4482255,RJ
+2514,89819,Cordilheira Alta,SC
+2515,11431,Guaruja,SP
+2516,22050,Rio De Janeiro \Rio De Janeiro,RJ
+2517,13930,Serra Negra,SP
+2518,61760,Eusebio,CE
+2519,4615,Sao Paulo,SP
+2520,4937,Sao Paulo,SP
+2521,4088,Sao Paulo,SP
+2522,36500,Uba,MG
+2523,18110,Votorantim,SP
+2524,32372,Contagem,MG
+2525,3178,Sao Paulo,SP
+2526,45658,Ilheus,BA
+2527,22775,Rio De Janeiro,RJ
+2528,6703,Cotia,SP
+2529,58865,Sao Bento,PB
+2530,8072,Sao Paulo,SP
+2531,2634,Sao Paulo,SP
+2532,9210,Santo Andre,SP
+2533,4193,Sao Paulo,SP
+2534,3445,Sao Paulo,SP
+2535,95098,Caxias Do Sul,RS
+2536,30620,Belo Horizonte,MG
+2537,12224,Sao Jose Dos Campos,SP
+2538,85501,Pato Branco,PR
+2539,80310,Curitiba,PR
+2540,80220,Curitiba,PR
+2541,13844,Mogi Guacu,SP
+2542,34006,Nova Lima,MG
+2543,14940,Ibitinga,SP
+2544,99730,Jacutinga,RS
+2545,25900,Rio De Janeiro,RJ
+2546,86800,Apucarana,PR
+2547,14940,Ibitinga,SP
+2548,86073,Londrina,PR
+2549,14940,Ibitinga,SP
+2550,30640,Belo Horizonte,MG
+2551,89108,Massaranduba,SC
+2552,13478,Americana,SP
+2553,3065,Sao Paulo,SP
+2554,13382,Nova Odessa,SP
+2555,13560,Sao Carlos,SP
+2556,86706,Arapongas,PR
+2557,45810,Porto Seguro,BA
+2558,12942,Atibaia,SP
+2559,13215,Jundiai,SP
+2560,28495,Aperibe,RJ
+2561,72233,Brasilia,DF
+2562,18200,Itapetininga,SP
+2563,35500,Divinopolis,MG
+2564,6760,Sao Paulo,SP
+2565,3654,Sao Paulo,SP
+2566,83050,Sao Jose Dos Pinhais,PR
+2567,13730,Mococa,SP
+2568,63020,Juzeiro Do Norte,CE
+2569,9190,Santo Andre,SP
+2570,5041,Sao Paulo,SP
+2571,4904,Sao Paulo,SP
+2572,2242,Sao Paulo,SP
+2573,85904,Toledo,PR
+2574,4058,Sao Paulo,SP
+2575,12512,Guaratingueta,SP
+2576,12943,Atibaia,SP
+2577,8290,Sao Paulo,SP
+2578,17580,Pompeia,SP
+2579,88495,Garopaba,SC
+2580,35501,Divinopolis,MG
+2581,4131,Sao Paulo,SP
+2582,3613,Sao Paulo,SP
+2583,3643,Sao Paulo,SP
+2584,1031,Sao Paulo,SP
+2585,73801,Formosa,GO
+2586,9182,Santo Andre,SP
+2587,3437,Sao Paulo,SP
+2588,35660,Centro,MG
+2589,80045,Curitiba,PR
+2590,13405,Piracicaba,SP
+2591,3236,Sao Paulo,SP
+2592,6713,Cotia,SP
+2593,13160,Artur Nogueira,SP
+2594,20770,Rio De Janeiro,RJ
+2595,33936,Ribeirao Das Neves,MG
+2596,14940,Ibitinga,SP
+2597,3185,Sao Paulo,SP
+2598,13327,Salto,SP
+2599,14801,Araraquara,SP
+2600,1207,Sao Paulo,SP
+2601,6144,Osasco,SP
+2602,36525,Guiricema,MG
+2603,81020,Curitiba,PR
+2604,86076,Londrina,SP
+2605,20081,Rio De Janeiro / Rio De Janeiro,RJ
+2606,12941,Atibaia,SP
+2607,2415,Sao Paulo,SP
+2608,3508,Sao Paulo,SP
+2609,26112,Belford Roxo,RJ
+2610,5268,Sao Paulo,SP
+2611,73813,Formosa,GO
+2612,3184,Sao Paulo,SP
+2613,87120,Floresta,PR
+2614,87160,Mandaguacu,PR
+2615,3688,Sao Paulo,SP
+2616,9570,Sao Caetano Do Sul,SP
+2617,3416,Sao Paulo,SP
+2618,11704,Praia Grande,SP
+2619,35570,Formiga,MG
+2620,82320,Curitiba,PR
+2621,13375,Mombuca,SP
+2622,2238,Sao Paulo,SP
+2623,3550,Sao Paulo,SP
+2624,37443,Baependi,MG
+2625,86800,Apucarana,PR
+2626,9560,Sao Caetano Do Sul,SP
+2627,90010,Porto Alegre,RS
+2628,3562,Sao Paulo,SP
+2629,84035,Ponta Grossa,PR
+2630,4186,Sao Paulo,SP
+2631,3586,Sao Paulo,SP
+2632,15400,Olimpia,SP
+2633,15115,Bady Bassitt,SP
+2634,36010,Juiz De Fora,SP
+2635,3304,Sao Paulo,SP
+2636,5528,Sao Paulo,SP
+2637,4041,Sao Paulo,SP
+2638,95650,Igrejinha,RS
+2639,2022,Sao Paulo,SP
+2640,8743,Mogi Das Cruzes,SP
+2641,9861,Sbc,SP
+2642,28941,Sao Pedro Da Aldeia,RJ
+2643,9041,Santo Andre,SP
+2644,13405,Piracicaba,SP
+2645,14015,Sao Paulo,SP
+2646,4821,Sao Paulo,SP
+2647,31310,Belo Horizonte,MG
+2648,88350,Brusque,SC
+2649,83322,Pinhais,PR
+2650,11600,Sao Sebastiao,SP
+2651,3126,Sao Paulo,SP
+2652,23080,Rio De Janeiro,RJ
+2653,2968,Sao Paulo,SP
+2654,13820,Jaguariuna,SP
+2655,3929,Sao Paulo,SP
+2656,81630,Curitiba,PR
+2657,37564,Borda Da Mata,MG
+2658,14402,Franca,SP
+2659,5588,Sao Paulo,SP
+2660,60710,Fortaleza,CE
+2661,31920,Belo Horizonte,MG
+2662,83010,Sao Jose Dos Pinhais,PR
+2663,94910,Cachoeirinha,RS
+2664,14940,Ibitinga,SP
+2665,87050,Maringa,PR
+2666,31560,Belo Horizonte,MG
+2667,18401,Itapeva,SP
+2668,5455,Sao Paulo,SP
+2669,17700,Osvaldo Cruz,SP
+2670,96503,Cachoeira Do Sul,RS
+2671,85815,Cascavel,PR
+2672,31255,Belo Horizonte,MG
+2673,4282,Sao Paulo,SP
+2674,29315,Cachoeiro De Itapemirim,ES
+2675,14781,Barretos,SP
+2676,89208,Joinville,SC
+2677,1021,Sao Paulo,SP
+2678,81650,Curitiba,PR
+2679,3471,Sao Paulo,SP
+2680,95900,Lajeado,RS
+2681,8220,Sao Paulo,SP
+2682,89620,Campos Novos,SC
+2683,3282,Sao Paulo,SP
+2684,23062,Rio De Janeiro,RJ
+2685,25755,Petropolis,RJ
+2686,2118,Sao Paulo,SP
+2687,6730,Vargem Grande Paulista,SP
+2688,5530,Sao Paulo,SP
+2689,20910,Rio De Janeiro,RJ
+2690,51250,Recife,PE
+2691,87114,Sarandi,PR
+2692,5756,Sao Paulo,SP
+2693,4282,Sao Paulo,SP
+2694,89258,Jaragua Do Sul,SC
+2695,12701,Cruzeiro,SP
+2696,88306,Itajai,SC
+2697,4360,Sao Paulo,SP
+2698,87900,Loanda,PR
+2699,85812,Cascavel,PR
+2700,95180,Farroupilha,RS
+2701,9560,Sao Paulo,SP
+2702,88085,Florianopolis,SC
+2703,81460,Curitiba,PR
+2704,9780,Sao Bernardo Do Campo,SP
+2705,3172,Sao Paulo,SP
+2706,6286,Osasco,SP
+2707,2320,Sao Paulo,SP
+2708,1021,Sao Paulo,SP
+2709,11045,Santos,SP
+2710,4773,Sao Paulo,SP
+2711,80230,Curitiba,PR
+2712,8431,Sao Paulo,SP
+2713,2258,Sao Paulo,SP
+2714,88340,Camboriu,SC
+2715,96020,Pelotas,RS
+2716,13023,Campinas,SP
+2717,1140,Sao Paulo,SP
+2718,3182,Sao Paulo,SP
+2719,9210,Santo Andre,SP
+2720,85807,Cascavel,PR
+2721,7145,Guarulhos,SP
+2722,13848,Mogi Guacu,SP
+2723,3029,Sao Paulo,SP
+2724,25035,Duque De Caxias,RJ
+2725,88715,Jaguaruna,SC
+2726,3514,Sao Paulo,SP
+2727,12913,Braganca Paulista,SP
+2728,7084,Guarulhos,SP
+2729,81320,Curitiba,PR
+2730,9350,Maua,SP
+2731,1210,Sao Paulo,SP
+2732,86600,Rolandia,PR
+2733,15054,Sao Jose Do Rio Preto,SP
+2734,18950,Ipaussu,SP
+2735,70740,Brasilia,DF
+2736,13165,Engenheiro Coelho,SP
+2737,3635,Sao Paulo,SP
+2738,3370,Sao Paulo,SP
+2739,9810,Sao Bernardo Do Campo,SP
+2740,5315,Sao Paulo,SP
+2741,1403,Sao Paulo,SP
+2742,5856,Sao Paulo,SP
+2743,86702,Arapongas,PR
+2744,89219,Joinville,SC
+2745,22790,Rio De Janeiro,RJ
+2746,5174,Sao Paulo,SP
+2747,80240,Curitiba,PR
+2748,16022,Aracatuba,SP
+2749,55325,Brejao,PE
+2750,19470,Presidente Epitacio,SP
+2751,15085,Sao Jose Do Rio Preto,SP
+2752,86702,Arapongas,PR
+2753,4508,Sao Paulo,SP
+2754,13520,Sao Pedro,SP
+2755,6341,Carapicuiba,SP
+2756,85903,Toledo,PR
+2757,4705,Sao Paulo,SP
+2758,9921,Diadema,SP
+2759,17512,Marilia,SP
+2760,31110,Belo Horizonte,MG
+2761,13575,Sao Carlos,SP
+2762,22640,Rio De Janeiro,RJ
+2763,88370,Navegantes,SC
+2764,82810,Curitiba,PR
+2765,87060,Maringa,PR
+2766,26210,Nova Iguacu,RJ
+2767,13483,Limeira,SP
+2768,1233,Sao Paulo,SP
+2769,9220,Santo Andre,SP
+2770,83823,Fazenda Rio Grande,PR
+2771,1041,Sao Paulo,SP
+2772,89201,Joinville,SC
+2773,13900,Amparo,SP
+2774,17032,Bauru,SP
+2775,88353,Brusque,SC
+2776,4476,Sao Paulo,SP
+2777,96080,Pelotas,RS
+2778,1421,Sao Paulo,SP
+2779,30170,Belo Horizonte,MG
+2780,5767,Sao Paulo,SP
+2781,7160,Guarulhos,SP
+2782,3029,Sao Paulo,SP
+2783,74210,Goiania,GO
+2784,13500,Rio Claro,SP
+2785,3513,Sao Paulo,SP
+2786,4424,Sao Paulo,SP
+2787,2565,Sao Paulo,SP
+2788,5059,Sao Paulo,SP
+2789,3122,Sao Paulo,SP
+2790,89030,Blumenau,SC
+2791,89812,Chapeco,SC
+2792,30140,Belo Horizonte,MG
+2793,9291,Santo Andre,SP
+2794,4122,Sao Paulo,SP
+2795,11680,Ubatuba,SP
+2796,7242,Guarulhos,SP
+2797,89520,Curitibanos,SC
+2798,14940,Ibitinga,SP
+2799,16074,Aracatuba,SP
+2800,6409,Barueri,SP
+2801,4613,Sao Paulo,SP
+2802,8517,Ferraz De  Vasconcelos,SP
+2803,25963,Teresopolis,RJ
+2804,6696,Itapevi,SP
+2805,85501,Pato Branco,PR
+2806,15505,Votuporanga,SP
+2807,13347,Indaiatuba,SP
+2808,71825,Brasilia,DF
+2809,87230,Jussara,PR
+2810,14960,Novo Horizonte,SP
+2811,13456,Santa Barbara D Oeste,SP
+2812,3476,Sao Paulo,SP
+2813,89063,Blumenau,SC
+2814,1226,Sao Paulo,SP
+2815,6852,Itapecerica Da Serra,SP
+2816,17026,Bauru,SP
+2817,5373,Sao Paulo,SP
+2818,25730,Petropolis,RJ
+2819,11701,Praia Grande,SP
+2820,86604,Rolandia,PR
+2821,38400,Uberlandia,MG
+2822,3009,Sao Paulo,SP
+2823,87083,Maringa,PR
+2824,89210,Joinville,SC
+2825,3448,Sao Paulo,SP
+2826,3542,Sao Paulo,SP
+2827,2261,Sao Paulo,SP
+2828,11085,Santos,SP
+2829,8223,Sao Paulo,SP
+2830,88036,Florianopolis,SC
+2831,88135,Palhoca,SC
+2832,5303,Sao  Paulo,SP
+2833,13030,Campinas,SP
+2834,14940,Ibitinga,SP
+2835,7093,Guarulhos,SP
+2836,16072,Aracatuba,SP
+2837,4160,Sao Paulo,SP
+2838,59775,Messias Targino,RN
+2839,31980,Belo Horizonte,MG
+2840,3060,Sao Paulo,SP
+2841,4660,Sao Paulo,SP
+2842,9961,Diadema,SP
+2843,4281,Sao Paulo,SP
+2844,41820,Salvador,BA
+2845,13140,Paulinia,SP
+2846,6900,Embu Guacu,SP
+2847,13504,Rio Claro,SP
+2848,52011,Recife,PE
+2849,3064,Sao Paulo,SP
+2850,3647,Sao Paulo,SP
+2851,86047,Londrina,PR
+2852,18683,Lencois Paulista,SP
+2853,14085,Ribeirao Preto,SP
+2854,14020,Ribeirao Preto,SP
+2855,28950,Armacao Dos Buzios,RJ
+2856,3445,Sao Paulo,SP
+2857,13660,Porto Ferreira,SP
+2858,21320,Rio De Janeiro,SP
+2859,13480,Limeira,SP
+2860,88010,Florianopolis,SC
+2861,13253,Itatiba,SP
+2862,3820,Sao Paulo,SP
+2863,81810,Curitiba,PR
+2864,14407,Franca,SP
+2865,7170,Guarulhos,SP
+2866,89080,Indaial,SC
+2867,5571,Sao Paulo,SP
+2868,8260,Sao Paulo,SP
+2869,86035,Londrina,PR
+2870,11015,Santos,SP
+2871,13845,Mogi Guacu,SP
+2872,25957,Teresopolis,RJ
+2873,13414,Piracicaba,SP
+2874,8111,Sao Paulo,SP
+2875,7023,Guarulhos,SP
+2876,70070,Brasilia,DF
+2877,84010,Ponta Grossa,PR
+2878,14092,Ribeirao Preto,SP
+2879,80010,Curitiba,PR
+2880,8320,Sao Paulo,SP
+2881,1545,Sao Paulo,SP
+2882,74210,Goiania,GO
+2883,5061,Sao Paulo,SP
+2884,88501,Lages,SC
+2885,4578,Sao Paulo,SP
+2886,17030,Bauru,SP
+2887,18608,Botucatu,SP
+2888,24451,Sao Goncalo,RJ
+2889,20051,Rio De Janeiro,RJ
+2890,14801,Araraquara,SP
+2891,3569,Sao Paulo,SP
+2892,17201,Jau,SP
+2893,89214,Joinville,SC
+2894,38022,Uberaba,MG
+2895,26230,Nova Iguacu,RJ
+2896,16012,Aracatuba,SP
+2897,29090,Vitoria,ES
+2898,37795,Andradas,SP
+2899,1238,Sao Paulo,SP
+2900,88301,Itajai,SC
+2901,1023,Sao Paulo,SP
+2902,88704,Tubarao,SC
+2903,95995,Arvorezinha,RS
+2904,90230,Porto Alegre,RS
+2905,85875,Santa Terezinha De Itaipu,PR
+2906,15802,Catanduva,SP
+2907,13632,Pirassununga,SP
+2908,9360,Maua,SP
+2909,6150,Osasco,SP
+2910,1303,Sao Paulo,SP
+2911,4291,Sao Paulo,SP
+2912,86192,Cambe,PR
+2913,1220,Sao Paulo,SP
+2914,3068,Sao Paulo,SP
+2915,9080,Santo Andre,SP
+2916,3186,Sao Paulo,SP
+2917,88351,Brusque,SC
+2918,6317,Carapicuiba,SP
+2919,13160,Artur Nogueira,SP
+2920,20020,Rio De Janeiro,RJ
+2921,12228,Sao Jose Dos Campos,SP
+2922,2119,Sao Paulo,SP
+2923,6539,Santana De Parnaiba,SP
+2924,90240,Porto Alegre,RS
+2925,80010,Curitiba,PR
+2926,5314,Sao Paulo,SP
+2927,94965,Cachoeirinha,RS
+2928,3872,Sao Paulo,SP
+2929,8573,Itaquaquecetuba,SP
+2930,3659,Sao Paulo,SP
+2931,17250,Bariri,SP
+2932,1123,Sao Paulo,SP
+2933,3564,Sao Paulo,SP
+2934,84020,Ponta Grossa,PR
+2935,89150,Presidente Getulio,SC
+2936,4273,Sao Paulo,SP
+2937,35680,Itauna,MG
+2938,40368,Salvador,BA
+2939,38183,Araxa,MG
+2940,15601,Fernandopolis,SP
+2941,29032,Vitoria,ES
+2942,80045,Curitiba,PR
+2943,92025,Canoas,RS
+2944,5417,Sao Paulo,SP
+2945,19160,Alvares Machado,SP
+2946,14092,Ribeirao Preto,SP
+2947,89870,Pinhalzinho,SC
+2948,71200,Brasilia,DF
+2949,1206,Sao Paulo,SP
+2950,2407,Sao Paulo,SP
+2951,95076,Caxias Do Sul,SP
+2952,9750,Sao Bernardo Do Campo,SP
+2953,7013,Guarulhos,SP
+2954,81720,Curitiba,PR
+2955,15055,Sao Jose Do Rio Preto,SP
+2956,3057,Sao Paulo,SP
+2957,12914,Braganca Paulista,SP
+2958,13419,Piracicaba,SP
+2959,87047,Maringa,PR
+2960,7194,Guarulhos,SP
+2961,9010,Santo Andre,SP
+2962,1031,Sao Paulo,SP
+2963,85801,Cascavel,PR
+2964,16306,Penapolis,SP
+2965,8599,Itaquaquecetuba,SP
+2966,99300,Soledade,RS
+2967,9230,Santo Andre/Sao Paulo,SP
+2968,15600,Fernandopolis,SP
+2969,15030,Sao Jose Do Rio Preto,SP
+2970,13920,Pedreira,SP
+2971,9720,Sao Bernardo Do Campo,SP
+2972,18017,Sorocaba,SP
+2973,1127,Sao Paulo,SP
+2974,19820,Taruma,SP
+2975,13660,Porto Ferreira,SP
+2976,89165,Rio Do Sul,SC
+2977,21240,Rio De Janeiro,RJ
+2978,6436,Barueri,SP
+2979,12940,Atibaia,SP
+2980,18185,Pilar Do Sul,SP
+2981,85960,Marechal Candido Rondon,SP
+2982,36570,Vicosa,MG
+2983,18110,Votorantim,SP
+2984,88901,Ararangua,SC
+2985,4001,Sao Paulo,SP
+2986,82300,Curitiba,PR
+2987,6365,Carapicuiba,SP
+2988,7600,Mairipora,SP
+2989,7082,Guarulhos,SP
+2990,4156,Sao Paulo,SP
+2991,3275,Sao Paulo,SP
+2992,81350,Curitiba,PR
+2993,3063,Sao Paulo,SP
+2994,36010,Juiz De Fora,MG
+2995,9628,Sao Bernardo Do Campo,SP
+2996,14940,Ibitinga,SP
+2997,14940,Ibitinga,SP
+2998,93336,Novo Hamburgo,RS
+2999,87013,Maringa,PR
+3000,3431,Sao Paulo,SP
+3001,88137,Palhoca,SC
+3002,20756,Rio De Janeiro,RJ
+3003,13330,Indaiatuba,SP
+3004,13660,Porto Ferreira,SP
+3005,4104,Sao Paulo,SP
+3006,13324,Salto,SP
+3007,14021,Ribeirao Preto,SP
+3008,37400,Campanha,MG
+3009,86020,Londrina,PR
+3010,5634,Sao Paulo,SP
+3011,3029,Sao Paulo,SP
+3012,18048,Sorocaba,SP
+3013,13830,Santo Antonio De Posse,SP
+3014,89070,Blumenau,SC
+3015,8502,Ferraz De Vasconcelos,SP
+3016,5319,Sao Paulo,SP
+3017,12600,Lorena,SP
+3018,5138,Sao Paulo,SP
+3019,88870,Orleans,SC
+3020,22793,"Rio De Janeiro, Rio De Janeiro, Brasil",RJ
+3021,13180,Sumare,SP
+3022,1310,Sao Paulo,SP
+3023,31535,Belo Horizonte,MG
+3024,88820,Icara,SC
+3025,13170,Sumare,SP
+3026,83020,Sao Jose Dos Pinhais,SP
+3027,2310,Sao Paulo,SP
+3028,9111,Santo Andre,SP
+3029,19023,Presidente Prudente,SP
+3030,13920,Pedreira,SP
+3031,95660,Tres Coroas,RS
+3032,1126,Sao Paulo,SP
+3033,38650,Bonfinopolis De Minas,MG
+3034,21340,Rio De Janeiro,RJ
+3035,15052,Sao Jose Do Rio Preto,SP
+3036,21825,Rio De Janeiro,RJ
+3037,96020,Pelotas,RS
+3038,9550,Sao Caetano Do Sul,SP
+3039,85853,Foz Do Iguacu,PR
+3040,14150,Serrana,SP
+3041,9380,Maua,SP
+3042,13073,Campinas,SP
+3043,86047,Londrina,PR
+3044,40243,Salvador,BA
+3045,3655,Sao Paulo,SP
+3046,4101,Sao Paulo,SP
+3047,31030,Belo Horizonte,MG
+3048,4558,Sao Paulo,SP
+3049,18550,Boituva,SP
+3050,7032,Guarulhos,SP
+3051,13481,Limeira,SP
+3052,14075,Ribeirao Preto,SP
+3053,4674,Sao Paulo,SP
+3054,3679,Sao Paulo,SP
+3055,18111,Votorantim,SP
+3056,4208,Sao Paulo,SP
+3057,58073,Joao Pessoa,PB
+3058,15015,Sao Jose Do Rio Preto,SP
+3059,3331,Sao Paulo,SP
+3060,81650,Curitiba,PR
+3061,37704,Pocos De Caldas,MG
+3062,38010,Uberaba,MG
+3063,19020,Presidente Prudente,SP
+3064,38680,Arinos,MG
+3065,13030,Campinas,SP
+3066,4365,Sao Paulo,SP
+3067,6018,Osasco,SP
+3068,35300,Caratinga,MG
+3069,24900,Marica,RJ
+3070,81925,Curitiba,PR
+3071,13085,Campinas,SP
+3072,36200,Barbacena/ Minas Gerais,MG
+3073,3165,Sao Paulo,SP
+3074,13920,Pedreira,SP
+3075,28605,Nova Friburgo,RJ
+3076,14110,Ribeirao Preto,SP
+3077,12270,Jambeiro,SP
+3078,24310,Niteroi,RJ
+3079,3410,Sao Paulo,SP
+3080,9171,Santo Andre,SP
+3081,81260,Curitiba,PR
+3082,8710,Mogi Das Cruzes,SP
+3083,5424,Sao Paulo,SP
+3084,3319,Sao Paulo,SP
+3085,7071,Guarulhos,SP
+3086,8140,Sao Paulo,SP
+3087,35900,Itabira,MG
+3088,86030,Londrina,PR
+3089,13465,Americana,SP
+3090,7091,Guarulhos,SP
+3091,80045,Curitiba,PR
+3092,80030,Curitiba,PR
+3093,15130,Mirassol,SP
+3094,13908,Amparo,SP
+3095,13070,Campinas,SP
